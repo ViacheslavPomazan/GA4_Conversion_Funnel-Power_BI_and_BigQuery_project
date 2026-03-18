@@ -23,11 +23,17 @@ The primary goal is to visualize the user journey from the 'session_start' to th
 3.
 ![Traffic](image/Traffic_and_Journey1.png)
 
-## Technical Highlights : ⭐
-🔹 SQL Query performs the following functions:
-   *  Data Flattening: Unnested GA4 event parameters to transform hierarchical JSON-like data into a flat relational structure.
-   *  Data Quality & Cleaning: Filtered 7 key funnel events and handled session inconsistencies (removed sessions with multiple or missing session_start).
-   *  Scale: Successfully processed a final table of 867K+ rows for Power BI visualization.
+## Technical Highlights: ⭐
+🔹 <b>SQL Query</b> performs the following functions:
+   *  <b>Data Flattening:</b> Unnested GA4 event parameters to transform hierarchical JSON-like data into a flat relational structure.
+   *  <b>Data Quality & Cleaning:</b> Filtered 7 key funnel events and handled session inconsistencies (removed sessions with multiple or missing session_start).
+   *  <b>Scale:</b> Successfully processed a final table of 867K+ rows for Power BI visualization.
+
+🔹 <b>Data Modelling:</b>
+
+![model](image/ga1_funnel_model1.png)
+
+     
 
 
  
