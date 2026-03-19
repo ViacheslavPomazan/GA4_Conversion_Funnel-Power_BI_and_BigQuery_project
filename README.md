@@ -1,4 +1,4 @@
-# GA4 Conversion Funnel | Power BI & BigQuery Project 🚀
+# GA4 Conversion Funnel | Power BI, Tableau & BigQuery Project 🚀
 
 ## Project Overview
 The primary goal is to visualize the user journey from the 'session_start' to the final 'purchase' through such stages as 'view_item', 'add_to_cart', 'begin_checkout', 'add_shipping_info', 'add_payment_info', identifying where potential customers drop off and how different user segments behave throughout the funnel. Project visualization was developed in two versions: Power BI Report and Tableau Dashboard. Data is sourced from the `ga4_obfuscated_sample_ecommerce` public dataset, containing 4M+ rows of session data from November 1, 2020, to January 31, 2021.
