@@ -247,9 +247,9 @@ VAR TotalSessions =
     CALCULATE(
               DISTINCTCOUNT(GAFT[SessionID]),
               FILTER(
-                    ALLEXCEPT(GAFT, GAFT[Country])
-                     ),
-              GAFT[Event] = FirstEvent      
+                    ALLEXCEPT(GAFT, GAFT[Country]),
+                    GAFT[Event] = FirstEvent
+                    )      
     )
 
 VAR EventSessions =
@@ -257,11 +257,11 @@ VAR EventSessions =
     CALCULATE(
               DISTINCTCOUNT(GAFT[SessionID]),
               FILTER(
-                    ALLEXCEPT(GAFT, GAFT[Country])
-                    ),
-              GAFT[Event] = SecondEvent
+                    ALLEXCEPT(GAFT, GAFT[Country]),
+                    GAFT[Event] = SecondEvent
+                   )
              )
-   
+
 RETURN
     DIVIDE(
         EventSessions,
@@ -299,8 +299,14 @@ RETURN
 
 ## Tableau Highlights: ⭐
 
+<details>
+<summary>Calculating the unique session count for every combination of event and selected parameter.</summary>
 
-      
+```
+{FIXED [event_name], [Dimension Selector]: COUNTD([user_session_id])}
+```
+</details>
+
 ## Feedback and Collaboration 🙌
 
 If you have any feedback regarding the data modeling, DAX formulas, or visualization choices, please open an issue or reach out to me directly. I'm also open to collaboration and welcome any contributions that could enhance the report's functionalities!
