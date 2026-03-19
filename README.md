@@ -90,11 +90,15 @@ ON st.user_session_id = i.user_session_id
 3.
 ![Traffic](image/Traffic_and_Journey1.png)
 
-## Power BI Technical Highlights: ⭐
+## Power BI Highlights: ⭐
 
- 🔹 <b>Data Modelling:</b>
+🔹 <b>Data Modelling:</b>
+ 
+<details>
+<summary>Data modele scheme is here:</summary>
 
 ![model](image/ga1_funnel_model1.png)
+</details>
 
 
 
@@ -102,17 +106,12 @@ ON st.user_session_id = i.user_session_id
 
 👉 [Link to Tableau Public Dashboard](https://public.tableau.com/views/GA4ConversionFunnelProject/DashboardConversion2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## Technical Highlights: ⭐
+![tableau dashboard](image/tableau_ga4_funnel1.png)
 
- 
-🔹 <b>Data Modelling:</b>
-
-![model](image/ga1_funnel_model1.png)
-
-     
+## Tableau Highlights: ⭐
 
 
- 
+      
 ## Feedback and Collaboration 🙌
 
 If you have any feedback regarding the data modeling, DAX formulas, or visualization choices, please open an issue or reach out to me directly. I'm also open to collaboration and welcome any contributions that could enhance the report's functionalities!
