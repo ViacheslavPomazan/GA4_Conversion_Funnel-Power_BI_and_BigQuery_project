@@ -90,7 +90,7 @@ ON st.user_session_id = i.user_session_id
 3.
 ![Traffic](image/Traffic_and_Journey1.png)
 
-[Power BI report video review](https://drive.google.com/file/d/1LuuwnS-S5D4HYdjOM13_iF8XBXzkgG9V/view?usp=sharing)
+👉[Watch Power BI report video review](https://drive.google.com/file/d/1LuuwnS-S5D4HYdjOM13_iF8XBXzkgG9V/view?usp=sharing)
 
 ## Power BI Highlights: ⭐
 
@@ -102,7 +102,7 @@ ON st.user_session_id = i.user_session_id
 ![model](image/ga1_funnel_model1.png)
 </details>
 
-* To enable deep-dive segmentation, I developed a GA4 Session-Event Fact Table(GAFT). This table consolidates core GA4 events with their respective session attributes (Source, Medium, Device, etc.), allowing for seamless filtering across all funnel stages.
+* To enable deep analysis, I developed a GA4 Session-Event Fact Table(GAFT). In the GAFT table, data aggregation ensures that each session contains only one unique occurrence of each event type. This step is essential for the subsequent calculation of time intervals between funnel stages.
 <details>
 <summary>DAX code for creating Calculated Table GAFT:</summary>
 
@@ -129,6 +129,8 @@ ADDCOLUMNS (
 )
 ```
 </details>
+
+* 
 
 ## Tableau Gallery
 
