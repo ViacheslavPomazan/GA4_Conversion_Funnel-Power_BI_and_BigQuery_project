@@ -15,21 +15,8 @@ The primary goal is to visualize the user journey from the 'session_start' to th
 * <b>Visualization & Modeling:</b> Power BI and Tableu for creating an interactive dashboards. 
 * <b>Metrics Calculation:</b> Developed business logic using DAX in Power BI and a combination of LOD expressions and Calculated Fields in Tableau.
 
-## Gallery
-1. 
-![Funnel](image/Conversion_Funnel1.png)
-
-2.
-![Matrixl](image/Matrix1.png)
-
-3.
-![Traffic](image/Traffic_and_Journey1.png)
-
-
-👉 [Link to Tableau Public Dashboard](https://public.tableau.com/views/GA4ConversionFunnelProject/DashboardConversion2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-## Technical Highlights: ⭐
-🔹 <b>SQL Query</b> performs the following functions:
+## SQL Highlights: ⭐
+This section demonstrates the core data transformation logic used to process raw GA4 events from BigQuery.
    *  <b>Data Flattening:</b> Unnested GA4 event parameters to transform hierarchical JSON-like data into a flat relational structure.
    *  <b>Data Quality & Cleaning:</b> Filtered 7 key funnel events and handled session inconsistencies (removed sessions with multiple or missing session_start).
    *  <b>Scale:</b> Successfully processed a final table of 867K+ rows for Power BI visualization.
@@ -92,6 +79,31 @@ FROM start_table st LEFT JOIN init_filtered i
 ON st.user_session_id = i.user_session_id
 ```
 </details>
+ 
+## Power BI Gallery
+1. 
+![Funnel](image/Conversion_Funnel1.png)
+
+2.
+![Matrixl](image/Matrix1.png)
+
+3.
+![Traffic](image/Traffic_and_Journey1.png)
+
+## Power BI Technical Highlights: ⭐
+
+ 🔹 <b>Data Modelling:</b>
+
+![model](image/ga1_funnel_model1.png)
+
+
+
+## Tableau Gallery
+
+👉 [Link to Tableau Public Dashboard](https://public.tableau.com/views/GA4ConversionFunnelProject/DashboardConversion2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Technical Highlights: ⭐
+
  
 🔹 <b>Data Modelling:</b>
 
