@@ -1,7 +1,8 @@
 # GA4 Conversion Funnel | Power BI, Tableau & BigQuery Project 🚀
 
 ## Project Overview
-The primary goal is to visualize the user journey from the 'session_start' to the final 'purchase' through such stages as 'view_item', 'add_to_cart', 'begin_checkout', 'add_shipping_info', 'add_payment_info', identifying where potential customers drop off and how different user segments behave throughout the funnel. Data is sourced from the `ga4_obfuscated_sample_ecommerce` public dataset, containing 4M+ rows of session data from November 1, 2020, to January 31, 2021. Unfortunately, neither the CSV file extracted from BigQuery nor the Power BI .pbix file can be included in the repository due to their sizes (138 MB and 88 MB respectively). Project visualization was developed in two versions: Power BI Report and Tableau Dashboard.
+The primary goal is to visualize the user journey from the 'session_start' to the final 'purchase' through such stages as 'view_item', 'add_to_cart', 'begin_checkout', 'add_shipping_info', 'add_payment_info', identifying where potential customers drop off and how different user segments behave throughout the funnel. Data is sourced from the `ga4_obfuscated_sample_ecommerce` public dataset, containing 4M+ rows of session data from November 1, 2020, to January 31, 2021. Unfortunately, neither the full CSV file extracted from BigQuery nor the Power BI .pbix file can be included in the repository due to their sizes (138 MB and 88 MB respectively). The first 500 rows of data are provided in the ga4_conversion_funnel_sample.csv file. The link to the full dataset is here: [Link](https://drive.google.com/file/d/1de58cEZOWrLjjCqQTtMt2_MUJfmkAgas/view?usp=sharing)  
+Project visualization was developed in two versions: Power BI Report and Tableau Dashboard.
 
 ## Key Objectives: 🎯
 * <b>Funnel Visualization:</b> Map the progression between key events: session_start → view_item → add_to_cart → begin_checkout → add_shipping_info → add_payment_info → purchase.
@@ -294,7 +295,7 @@ RETURN
 ### 🔹 <b>Python</b>
 
 <details>
-<summary>Python script for creating Cramer's Correlation Matrix" . </summary>
+<summary>Python script for creating Cramer's Correlation Matrix. </summary>
 
 ```python
 import pandas as pd
