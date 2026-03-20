@@ -1,0 +1,501 @@
+event_timestamp,session_id,user_session_id,event_name,landing_page_location,sourse,medium,campaign,country,device_category,operating_system,device_language
+2020-12-12 04:11:17.508078 UTC,5983736405,10001363.4360935308+5983736405,session_start,store.html,<Other>,organic,(organic),Sweden,desktop,Web,en-us
+2021-01-07 18:35:34.089387 UTC,6063162078,1000223163.8035209215+6063162078,session_start,,(direct),(none),(direct),Australia,mobile,Web,en-gb
+2021-01-20 11:04:59.887247 UTC,3338398581,1000299.7413851356+3338398581,session_start,,(direct),(none),(direct),India,desktop,Web,en-us
+2020-11-04 13:43:30.570448 UTC,3614622791,1000300.3223254235+3614622791,session_start,,shop.googlemerchandisestore.com,referral,(referral),France,desktop,Web,de
+2020-11-04 09:21:11.657014 UTC,9350310735,1000300.3223254235+9350310735,session_start,,<Other>,<Other>,<Other>,France,desktop,Web,en-us
+2020-12-11 17:25:12.071831 UTC,699335171,10003031.4607645453+699335171,session_start,Google+Redesign/Apparel,(direct),(none),(direct),United States,desktop,Windows,en-us
+2021-01-08 04:10:12.372423 UTC,39098263,10004358.0897722689+39098263,session_start,Google+Redesign/bags/backpacks/,google,cpc,<Other>,Russia,mobile,Web,zh
+2020-12-07 18:37:43.948736 UTC,6266397503,1000441.6293401995+6266397503,session_start,,google,organic,(organic),Ecuador,mobile,Web,en
+2020-12-12 07:38:40.598995 UTC,1243001234,10005335.8064658740+1243001234,session_start,Google+Redesign/Lifestyle/Fun/Malibu+Sunglasses+green.axd,google,cpc,<Other>,China,desktop,Windows,
+2020-12-12 07:38:45.633282 UTC,1243001234,10005335.8064658740+1243001234,view_item,Google+Redesign/Lifestyle/Fun/Malibu+Sunglasses+green.axd,google,cpc,<Other>,China,desktop,Windows,
+2020-12-14 10:58:19.607529 UTC,1498493162,10005335.8064658740+1498493162,session_start,,(data deleted),(data deleted),(data deleted),China,desktop,Windows,
+2020-12-12 08:58:59.088457 UTC,3552270955,10005335.8064658740+3552270955,session_start,Google+Redesign/Clearance,(data deleted),(data deleted),(data deleted),China,desktop,Windows,
+2020-12-19 13:53:40.174674 UTC,4985071971,10005335.8064658740+4985071971,session_start,,(direct),(none),(direct),China,desktop,Windows,
+2020-12-14 04:50:56.257369 UTC,6279343319,10005335.8064658740+6279343319,session_start,,google,organic,(organic),China,desktop,Windows,
+2020-12-14 04:51:25.078277 UTC,6279343319,10005335.8064658740+6279343319,view_item,Google+Redesign/Accessories/Google+Bellevue+Campus+Sticker,google,organic,(organic),China,desktop,Windows,
+2020-12-14 04:51:38.213071 UTC,6279343319,10005335.8064658740+6279343319,view_item,Google+Redesign/Accessories/Google+Bellevue+Campus+Sticker,google,organic,(organic),China,desktop,Windows,
+2021-01-07 12:15:33.038847 UTC,2242291475,1000557.2911835023+2242291475,session_start,,<Other>,<Other>,<Other>,India,mobile,iOS,en
+2020-12-04 13:26:24.699409 UTC,676303865,10006188.0272495437+676303865,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,<Other>,<Other>,<Other>,United States,desktop,Web,en-us
+2020-12-16 05:45:38.471122 UTC,4057994016,10006257.5590555196+4057994016,session_start,Google+Redesign/Stationery/Stickers,(direct),(none),(direct),Taiwan,tablet,iOS,en-us
+2020-11-06 14:59:11.446757 UTC,2538888316,1000631.1195930056+2538888316,view_item,Google+Redesign/Apparel/Hats,<Other>,<Other>,<Other>,(not set),mobile,Web,en-us
+2020-11-06 15:00:04.912269 UTC,2538888316,1000631.1195930056+2538888316,view_item,Google+Redesign/Apparel/YouTube+Twill+Cap+Sandwich+Black,<Other>,<Other>,<Other>,(not set),mobile,Web,en-us
+2020-11-06 14:58:59.547063 UTC,2538888316,1000631.1195930056+2538888316,session_start,,<Other>,<Other>,<Other>,(not set),mobile,Web,en-us
+2020-11-06 14:59:55.482253 UTC,2538888316,1000631.1195930056+2538888316,view_item,Google+Redesign/Apparel/Hats,<Other>,<Other>,<Other>,(not set),mobile,Web,en-us
+2020-11-06 15:00:13.754255 UTC,2538888316,1000631.1195930056+2538888316,begin_checkout,yourinfo.html,<Other>,<Other>,<Other>,(not set),mobile,Web,en-us
+2020-11-06 15:00:18.686665 UTC,2538888316,1000631.1195930056+2538888316,add_shipping_info,yourinfo.html,<Other>,<Other>,<Other>,(not set),mobile,Web,en-us
+2020-11-13 01:25:35.496688 UTC,2172078423,10006684.5628039063+2172078423,session_start,Google+Redesign/Shop+by+Brand/Google,google,organic,(organic),United States,tablet,iOS,zh
+2020-12-26 09:33:49.090385 UTC,9592114710,1000680.5024405394+9592114710,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,google,cpc,<Other>,India,desktop,Windows,
+2020-12-07 18:03:41.110100 UTC,7101309994,1000684.0967461454+7101309994,view_item,Google+Redesign/eco+friendly,<Other>,<Other>,<Other>,United Kingdom,desktop,Web,
+2020-12-07 18:04:30.804304 UTC,7101309994,1000684.0967461454+7101309994,view_item,Google+Redesign/eco+friendly,<Other>,<Other>,<Other>,United Kingdom,desktop,Web,
+2020-12-07 18:03:47.675540 UTC,7101309994,1000684.0967461454+7101309994,add_to_cart,Google+Redesign/eco+friendly,<Other>,<Other>,<Other>,United Kingdom,desktop,Web,
+2020-12-07 18:06:03.830125 UTC,7101309994,1000684.0967461454+7101309994,add_shipping_info,yourinfo.html,<Other>,<Other>,<Other>,United Kingdom,desktop,Web,
+2020-12-07 18:07:28.528699 UTC,7101309994,1000684.0967461454+7101309994,begin_checkout,yourinfo.html,<Other>,<Other>,<Other>,United Kingdom,desktop,Web,
+2020-12-07 18:04:30.804304 UTC,7101309994,1000684.0967461454+7101309994,add_to_cart,Google+Redesign/eco+friendly,<Other>,<Other>,<Other>,United Kingdom,desktop,Web,
+2020-12-07 18:03:04.187113 UTC,7101309994,1000684.0967461454+7101309994,view_item,Google+Redesign/eco+friendly,<Other>,<Other>,<Other>,United Kingdom,desktop,Web,
+2020-12-07 18:04:34.453330 UTC,7101309994,1000684.0967461454+7101309994,add_to_cart,Google+Redesign/eco+friendly,<Other>,<Other>,<Other>,United Kingdom,desktop,Web,
+2020-12-07 18:07:57.291474 UTC,7101309994,1000684.0967461454+7101309994,view_item,Google+Redesign/Drinkware/Android+Buoy+Bottle,<Other>,<Other>,<Other>,United Kingdom,desktop,Web,
+2020-12-07 18:06:03.830694 UTC,7101309994,1000684.0967461454+7101309994,begin_checkout,yourinfo.html,<Other>,<Other>,<Other>,United Kingdom,desktop,Web,
+2020-12-07 18:07:19.445881 UTC,7101309994,1000684.0967461454+7101309994,add_to_cart,Google+Redesign/Apparel,<Other>,<Other>,<Other>,United Kingdom,desktop,Web,
+2020-12-07 18:07:49.823510 UTC,7101309994,1000684.0967461454+7101309994,view_item,Google+Redesign/Lifestyle/Drinkware,<Other>,<Other>,<Other>,United Kingdom,desktop,Web,
+2020-12-07 18:02:52.369357 UTC,7101309994,1000684.0967461454+7101309994,session_start,,<Other>,<Other>,<Other>,United Kingdom,desktop,Web,
+2020-12-07 18:03:12.741741 UTC,7101309994,1000684.0967461454+7101309994,add_to_cart,Google+Redesign/eco+friendly,<Other>,<Other>,<Other>,United Kingdom,desktop,Web,
+2020-12-07 18:06:03.997861 UTC,7101309994,1000684.0967461454+7101309994,begin_checkout,yourinfo.html,<Other>,<Other>,<Other>,United Kingdom,desktop,Web,
+2020-12-07 18:07:12.478502 UTC,7101309994,1000684.0967461454+7101309994,view_item,Google+Redesign/Apparel,<Other>,<Other>,<Other>,United Kingdom,desktop,Web,
+2020-12-07 18:07:28.395166 UTC,7101309994,1000684.0967461454+7101309994,begin_checkout,yourinfo.html,<Other>,<Other>,<Other>,United Kingdom,desktop,Web,
+2020-12-07 18:07:28.394165 UTC,7101309994,1000684.0967461454+7101309994,add_shipping_info,yourinfo.html,<Other>,<Other>,<Other>,United Kingdom,desktop,Web,
+2021-01-15 17:33:09.227467 UTC,4483881219,10007062.5457206397+4483881219,session_start,,(data deleted),(data deleted),(data deleted),Japan,mobile,iOS,en-us
+2021-01-15 15:51:56.801940 UTC,496173844,10007062.5457206397+496173844,session_start,,google,organic,(organic),Japan,mobile,iOS,en-us
+2021-01-15 17:52:20.875628 UTC,7057355141,10007062.5457206397+7057355141,session_start,registersuccess.html,shop.googlemerchandisestore.com,referral,(referral),Japan,mobile,iOS,en-us
+2021-01-15 19:25:22.586610 UTC,8449906112,10007062.5457206397+8449906112,session_start,store.html,google,organic,(organic),Japan,mobile,iOS,en-us
+2020-11-19 10:51:26.044788 UTC,4575147746,10007461.3508636884+4575147746,session_start,Google+Redesign/Apparel/Mens,google,organic,(organic),United States,desktop,Web,
+2020-11-19 09:15:48.812277 UTC,6407470542,10007546.3519345336+6407470542,session_start,Google+Redesign/Apparel,(direct),(none),(direct),United States,desktop,Web,en-us
+2020-11-19 09:34:06.675178 UTC,6407470542,10007546.3519345336+6407470542,view_item,Google+Redesign/Clearance,(direct),(none),(direct),United States,desktop,Web,en-us
+2020-11-19 09:16:12.590939 UTC,6407470542,10007546.3519345336+6407470542,view_item,Google+Redesign/Apparel,(direct),(none),(direct),United States,desktop,Web,en-us
+2020-11-19 09:16:27.043866 UTC,6407470542,10007546.3519345336+6407470542,view_item,Google+Redesign/Apparel/Google+Cotopaxi+Shell,(direct),(none),(direct),United States,desktop,Web,en-us
+2020-11-19 09:29:32.374328 UTC,6407470542,10007546.3519345336+6407470542,view_item,Google+Redesign/Clearance,(direct),(none),(direct),United States,desktop,Web,en-us
+2020-11-19 09:29:38.133142 UTC,6407470542,10007546.3519345336+6407470542,view_item,Google+Redesign/Clearance,(direct),(none),(direct),United States,desktop,Web,en-us
+2021-01-16 11:03:11.847777 UTC,2817416236,10007643.0797593935+2817416236,session_start,Google+Redesign/Shop+by+Brand/YouTube,<Other>,<Other>,<Other>,Portugal,mobile,Web,
+2021-01-16 11:03:13.803828 UTC,2817416236,10007643.0797593935+2817416236,view_item,Google+Redesign/Shop+by+Brand/YouTube,<Other>,<Other>,<Other>,Portugal,mobile,Web,
+2021-01-28 00:58:06.890030 UTC,6963209407,1000798.8040134101+6963209407,session_start,,<Other>,referral,(referral),South Korea,desktop,Web,
+2021-01-18 02:57:43.062961 UTC,1322485938,1000823.8498711409+1322485938,session_start,,google,organic,(organic),Peru,mobile,iOS,
+2021-01-18 05:07:16.440316 UTC,2819853181,1000823.8498711409+2819853181,session_start,Google+Redesign/Lifestyle/Drinkware,(data deleted),(data deleted),(data deleted),Peru,mobile,iOS,
+2021-01-03 23:51:59.663898 UTC,4671255128,10008432.1404019265+4671255128,session_start,,google,organic,(organic),Nigeria,mobile,iOS,en-us
+2020-12-01 03:30:34.127535 UTC,283898763,10009108.1158276609+283898763,session_start,basket.html,(data deleted),(data deleted),(data deleted),India,desktop,Windows,
+2020-12-01 02:40:05.105429 UTC,3864709476,10009108.1158276609+3864709476,view_item,Google+Redesign/Apparel/Kids,<Other>,<Other>,<Other>,India,desktop,Windows,
+2020-12-01 02:40:11.971047 UTC,3864709476,10009108.1158276609+3864709476,add_to_cart,Google+Redesign/Apparel/Kids,<Other>,<Other>,<Other>,India,desktop,Windows,
+2020-12-01 02:40:31.027610 UTC,3864709476,10009108.1158276609+3864709476,add_to_cart,Google+Redesign/Stationery/Stickers,<Other>,<Other>,<Other>,India,desktop,Windows,
+2020-12-01 02:40:18.129558 UTC,3864709476,10009108.1158276609+3864709476,add_to_cart,Google+Redesign/Apparel/Kids,<Other>,<Other>,<Other>,India,desktop,Windows,
+2020-12-01 02:39:08.584905 UTC,3864709476,10009108.1158276609+3864709476,session_start,,<Other>,<Other>,<Other>,India,desktop,Windows,
+2020-12-01 02:40:11.971047 UTC,3864709476,10009108.1158276609+3864709476,view_item,Google+Redesign/Apparel/Kids,<Other>,<Other>,<Other>,India,desktop,Windows,
+2020-12-01 02:40:25.526478 UTC,3864709476,10009108.1158276609+3864709476,view_item,Google+Redesign/Stationery/Stickers,<Other>,<Other>,<Other>,India,desktop,Windows,
+2020-12-01 05:35:21.900588 UTC,6462209686,10009108.1158276609+6462209686,session_start,basket.html,(direct),(none),(direct),India,desktop,Windows,
+2021-01-30 19:49:27.088239 UTC,185211423,10009602.5383862245+185211423,session_start,store.html,(direct),(none),(direct),India,desktop,Web,en-us
+2021-01-30 20:37:33.924600 UTC,6703203838,10009602.5383862245+6703203838,session_start,store.html,(data deleted),(data deleted),(data deleted),India,desktop,Web,en-us
+2021-01-14 05:45:32.099178 UTC,3877565879,1000985.4712566084+3877565879,session_start,Google+Redesign/Apparel,(direct),(none),(direct),United States,desktop,Web,en-us
+2021-01-07 05:26:52.337702 UTC,1362496213,10010311.6757212285+1362496213,session_start,,google,organic,(organic),United States,desktop,Web,
+2021-01-31 05:48:23.837933 UTC,386316635,10010311.6757212285+386316635,session_start,,<Other>,<Other>,<Other>,United States,mobile,Web,
+2021-01-08 07:08:39.390658 UTC,1064486593,10010730.1223461330+1064486593,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,<Other>,<Other>,<Other>,United States,mobile,Android,
+2021-01-09 05:12:00.880885 UTC,58839960,10010730.1223461330+58839960,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,shop.googlemerchandisestore.com,referral,(referral),United States,mobile,Android,
+2020-11-23 01:38:43.075275 UTC,8868892654,10010882.0068113393+8868892654,session_start,Google+Redesign/Shop+by+Brand/YouTube,(direct),(none),(direct),Canada,desktop,Web,en-us
+2021-01-09 16:00:57.032353 UTC,3462106658,10010971.4068667823+3462106658,session_start,,<Other>,<Other>,<Other>,United States,mobile,Web,ko
+2021-01-13 15:50:22.241585 UTC,9613426766,10010971.4068667823+9613426766,session_start,Google+Redesign/Apparel/Google+Black+Cloud+Zip+Hoodie,(direct),(none),(direct),United States,mobile,Web,ko
+2021-01-13 15:50:27.257144 UTC,9613426766,10010971.4068667823+9613426766,view_item,Google+Redesign/Apparel/Google+Black+Cloud+Zip+Hoodie,(direct),(none),(direct),United States,mobile,Web,ko
+2020-12-03 01:27:52.115797 UTC,4184412187,10011083.2675069838+4184412187,session_start,Google+Redesign/Shop+by+Brand/YouTube,(direct),(none),(direct),United States,mobile,iOS,en-us
+2021-01-30 03:07:34.083717 UTC,1751738335,1001129.2598143025+1751738335,session_start,,<Other>,<Other>,<Other>,United States,desktop,Web,
+2021-01-30 01:48:33.450168 UTC,8385616517,1001129.2598143025+8385616517,session_start,,(direct),(none),(direct),United States,desktop,Web,
+2020-11-02 20:49:28.629082 UTC,6495587862,10011413.7444663505+6495587862,session_start,store-policies/frequently-asked-questions/,google,organic,(organic),United States,desktop,Web,en-us
+2020-12-02 21:55:32.315659 UTC,1056690447,10011979.7584389205+1056690447,view_item,Google+Redesign/Shop+by+Brand/Google,<Other>,referral,(referral),United States,desktop,Web,
+2020-12-02 21:56:29.969367 UTC,1056690447,10011979.7584389205+1056690447,view_item,Google+Redesign/Accessories/Google+Campus+Bike,<Other>,referral,(referral),United States,desktop,Web,
+2020-12-02 21:53:43.634281 UTC,1056690447,10011979.7584389205+1056690447,session_start,Google+Redesign/Apparel/Android+Iconic+Hat+V2+Black,<Other>,referral,(referral),United States,desktop,Web,
+2020-12-02 21:56:21.069512 UTC,1056690447,10011979.7584389205+1056690447,view_item,Google+Redesign/Shop+by+Brand/Google,<Other>,referral,(referral),United States,desktop,Web,
+2020-12-02 21:55:39.812948 UTC,1056690447,10011979.7584389205+1056690447,view_item,Google+Redesign/Accessories/Google+See+no+hear+no+set,<Other>,referral,(referral),United States,desktop,Web,
+2020-12-02 21:53:47.125027 UTC,1056690447,10011979.7584389205+1056690447,view_item,Google+Redesign/Apparel/Android+Iconic+Hat+V2+Black,<Other>,referral,(referral),United States,desktop,Web,
+2020-12-02 21:56:14.286431 UTC,1056690447,10011979.7584389205+1056690447,view_item,Google+Redesign/Shop+by+Brand/Google,<Other>,referral,(referral),United States,desktop,Web,
+2020-12-02 21:56:44.077455 UTC,1056690447,10011979.7584389205+1056690447,view_item,Google+Redesign/Shop+by+Brand/Google,<Other>,referral,(referral),United States,desktop,Web,
+2020-12-02 21:56:51.281825 UTC,1056690447,10011979.7584389205+1056690447,view_item,Google+Redesign/Accessories/Google+Chrome+Dinosaur+Collectible,<Other>,referral,(referral),United States,desktop,Web,
+2021-01-21 06:57:05.249326 UTC,1604890495,1001212.6261056431+1604890495,view_item,Google+Redesign/Apparel/Google+Dino+Game+Tee,google,organic,(organic),United States,desktop,Windows,
+2021-01-21 06:57:01.922197 UTC,1604890495,1001212.6261056431+1604890495,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,google,organic,(organic),United States,desktop,Windows,
+2020-11-12 21:37:24.258977 UTC,2330417754,10012540.9740834153+2330417754,session_start,Google+Redesign/Apparel/Mens/Mens+T+Shirts,google,cpc,<Other>,United States,mobile,iOS,en-us
+2021-01-26 15:27:46.676903 UTC,1066969705,10012672.1135178657+1066969705,session_start,Google+Redesign/Apparel,<Other>,<Other>,<Other>,Italy,desktop,Windows,
+2021-01-06 16:50:51.058662 UTC,414539895,1001303.4827739208+414539895,session_start,Google+Redesign/Apparel,(direct),(none),(direct),United States,desktop,Web,
+2021-01-06 16:57:05.217819 UTC,414539895,1001303.4827739208+414539895,view_item,Google+Redesign/Apparel/Mens,(direct),(none),(direct),United States,desktop,Web,
+2021-01-06 16:58:33.915186 UTC,414539895,1001303.4827739208+414539895,view_item,Google+Redesign/Apparel/Mens,(direct),(none),(direct),United States,desktop,Web,
+2021-01-06 16:52:28.655445 UTC,414539895,1001303.4827739208+414539895,view_item,Google+Redesign/Lifestyle/Small+Goods,(direct),(none),(direct),United States,desktop,Web,
+2021-01-06 16:59:30.258501 UTC,414539895,1001303.4827739208+414539895,view_item,Google+Redesign/Apparel/Mens,(direct),(none),(direct),United States,desktop,Web,
+2021-01-06 16:56:49.104637 UTC,414539895,1001303.4827739208+414539895,view_item,Google+Redesign/Apparel/Mens,(direct),(none),(direct),United States,desktop,Web,
+2021-01-06 16:57:16.728549 UTC,414539895,1001303.4827739208+414539895,view_item,Google+Redesign/Apparel/Mens,(direct),(none),(direct),United States,desktop,Web,
+2021-01-06 16:55:43.637309 UTC,414539895,1001303.4827739208+414539895,view_item,Google+Redesign/Apparel/Mens,(direct),(none),(direct),United States,desktop,Web,
+2021-01-06 16:52:38.576472 UTC,414539895,1001303.4827739208+414539895,view_item,Google+Redesign/Lifestyle/Small+Goods,(direct),(none),(direct),United States,desktop,Web,
+2020-11-23 12:03:36.035758 UTC,1033150356,1001324.3486446053+1033150356,session_start,,<Other>,<Other>,<Other>,United States,desktop,Web,
+2020-12-22 02:02:05.351594 UTC,7579082358,1001326.1239892771+7579082358,add_to_cart,asearch.html,google,organic,(organic),Spain,desktop,Web,en-us
+2020-12-22 02:05:22.991618 UTC,7579082358,1001326.1239892771+7579082358,view_item,Google+Redesign/Apparel,google,organic,(organic),Spain,desktop,Web,en-us
+2020-12-22 02:17:31.177689 UTC,7579082358,1001326.1239892771+7579082358,view_item,Google+Redesign/Accessories/Google+LA+Campus+Sticker,google,organic,(organic),Spain,desktop,Web,en-us
+2020-12-22 01:54:20.871227 UTC,7579082358,1001326.1239892771+7579082358,session_start,,google,organic,(organic),Spain,desktop,Web,en-us
+2020-12-22 02:02:05.351594 UTC,7579082358,1001326.1239892771+7579082358,view_item,asearch.html,google,organic,(organic),Spain,desktop,Web,en-us
+2020-12-22 02:01:03.187287 UTC,7579082358,1001326.1239892771+7579082358,add_to_cart,asearch.html,google,organic,(organic),Spain,desktop,Web,en-us
+2020-12-22 02:01:03.187287 UTC,7579082358,1001326.1239892771+7579082358,view_item,asearch.html,google,organic,(organic),Spain,desktop,Web,en-us
+2021-01-27 06:18:21.758801 UTC,4621973907,1001330.4092774706+4621973907,begin_checkout,yourinfo.html/home,(direct),(none),(direct),India,mobile,iOS,
+2021-01-27 06:11:34.783632 UTC,4621973907,1001330.4092774706+4621973907,session_start,google+redesign/apparel/youtube+icon+tee+charcoal,(direct),(none),(direct),India,mobile,iOS,
+2021-01-27 06:18:21.755301 UTC,4621973907,1001330.4092774706+4621973907,add_shipping_info,yourinfo.html/home,(direct),(none),(direct),India,mobile,iOS,
+2021-01-27 06:18:21.755618 UTC,4621973907,1001330.4092774706+4621973907,begin_checkout,yourinfo.html/home,(direct),(none),(direct),India,mobile,iOS,
+2021-01-27 02:38:01.510586 UTC,1665573835,1001383.7938958705+1665573835,session_start,Google+Redesign/Shop+by+Brand/YouTube,(direct),(none),(direct),United States,mobile,iOS,en-us
+2020-12-03 01:44:10.092365 UTC,8511751648,10013915.0571627094+8511751648,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,<Other>,referral,(referral),United States,desktop,Macintosh,
+2021-01-28 13:58:41.575135 UTC,2802503728,1001406.4915130369+2802503728,session_start,Google+Redesign/Shop+by+Brand/YouTube,google,organic,(organic),Russia,desktop,Web,en-us
+2020-12-20 00:18:26.039347 UTC,1534730729,10014250.7664638549+1534730729,session_start,store.html,google,organic,(organic),United States,mobile,iOS,en
+2020-11-10 08:35:24.039732 UTC,2890364575,10014315.7133190905+2890364575,add_shipping_info,yourinfo.html,google,cpc,<Other>,United States,mobile,iOS,en-gb
+2020-11-10 08:34:09.752305 UTC,2890364575,10014315.7133190905+2890364575,view_item,Google+Redesign/Apparel/Hats,google,cpc,<Other>,United States,mobile,iOS,en-gb
+2020-11-10 08:33:57.754570 UTC,2890364575,10014315.7133190905+2890364575,session_start,,google,cpc,<Other>,United States,mobile,iOS,en-gb
+2020-11-10 08:35:08.264442 UTC,2890364575,10014315.7133190905+2890364575,view_item,Google+Redesign/Apparel/YouTube+Twill+Cap+Sandwich+Black,google,cpc,<Other>,United States,mobile,iOS,en-gb
+2020-11-10 08:35:19.200966 UTC,2890364575,10014315.7133190905+2890364575,begin_checkout,yourinfo.html,google,cpc,<Other>,United States,mobile,iOS,en-gb
+2020-11-10 08:34:58.964154 UTC,2890364575,10014315.7133190905+2890364575,view_item,Google+Redesign/Apparel/Hats,google,cpc,<Other>,United States,mobile,iOS,en-gb
+2020-11-09 23:01:22.592953 UTC,9570737746,1001453.1585440116+9570737746,session_start,,google,organic,(organic),Indonesia,desktop,Windows,en-us
+2021-01-28 18:22:40.720294 UTC,3900560114,1001479.0937691533+3900560114,session_start,Google+Redesign/Lifestyle/Small+Goods,google,organic,(organic),United States,mobile,Android,en-us
+2021-01-16 19:22:12.676259 UTC,3965528812,1001485222.1564925026+3965528812,session_start,,google,cpc,<Other>,(not set),desktop,Web,en-us
+2020-12-09 05:07:21.754488 UTC,4377464061,1001519.8438987528+4377464061,session_start,Google+Redesign/Apparel,<Other>,<Other>,<Other>,Denmark,mobile,iOS,en-us
+2020-12-09 03:25:00.839189 UTC,5399370187,1001519.8438987528+5399370187,session_start,Google+Redesign/Apparel,<Other>,<Other>,<Other>,Denmark,mobile,iOS,en-us
+2020-12-04 14:51:05.529812 UTC,5088149000,10015574.2242007782+5088149000,session_start,,google,organic,(organic),India,desktop,Web,en-ca
+2020-11-03 17:39:32.090701 UTC,5101804776,1001568.5746990412+5101804776,session_start,,<Other>,referral,(referral),United States,mobile,Web,en-us
+2020-11-02 18:14:48.557778 UTC,641557511,1001568.5746990412+641557511,session_start,,google,organic,(organic),United States,mobile,Web,en-us
+2020-11-03 12:39:50.165913 UTC,892740370,1001568.5746990412+892740370,session_start,,(direct),(none),(direct),United States,mobile,Web,en-us
+2020-12-17 21:42:05.895754 UTC,8331538213,1001584.7866790161+8331538213,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,(direct),(none),(direct),United Kingdom,desktop,Web,en
+2021-01-25 21:40:08.841632 UTC,606459387,1001623.3924462129+606459387,session_start,,<Other>,referral,(referral),United States,desktop,Macintosh,
+2020-11-13 05:05:16.545788 UTC,9627823719,10016430.8170772405+9627823719,session_start,,google,organic,(organic),Canada,mobile,Web,en-us
+2020-12-08 06:02:05.830438 UTC,7597689401,1001651.7799395423+7597689401,session_start,,google,cpc,<Other>,India,desktop,Windows,en-gb
+2021-01-27 01:14:22.716438 UTC,9741549485,1001661.7579959235+9741549485,session_start,,google,organic,(organic),Canada,mobile,Web,
+2020-11-04 12:59:49.521532 UTC,837411414,10016685.1140573491+837411414,session_start,store.html,google,organic,(organic),United States,desktop,Web,en-gb
+2021-01-27 00:12:57.272407 UTC,2082696953,10017747.6948779458+2082696953,session_start,store.html,(direct),(none),(direct),Mexico,mobile,Web,en-us
+2020-12-05 04:30:18.879962 UTC,357579702,1001788.7575767386+357579702,session_start,,google,cpc,<Other>,United States,desktop,Web,
+2021-01-09 04:05:53.350957 UTC,1602771170,1001844.0963402749+1602771170,session_start,,google,organic,(organic),India,desktop,Windows,en-us
+2021-01-09 04:08:27.563653 UTC,1602771170,1001844.0963402749+1602771170,view_item,Google+Redesign/Clearance,google,organic,(organic),India,desktop,Windows,en-us
+2021-01-09 06:35:23.901341 UTC,6719275319,1001844.0963402749+6719275319,session_start,Google+Redesign/Clearance,shop.googlemerchandisestore.com,referral,(referral),India,desktop,Windows,en-us
+2020-12-08 12:41:47.032989 UTC,4998765093,1001917.9848019352+4998765093,session_start,Google+Redesign/Apparel,google,organic,(organic),China,desktop,Web,en-us
+2020-12-28 17:08:26.989066 UTC,6568362936,10019458.2084325949+6568362936,session_start,,google,organic,(organic),United States,mobile,Web,en-us
+2021-01-28 05:51:42.562438 UTC,1781907146,10019537.3159042839+1781907146,session_start,,(data deleted),(data deleted),(data deleted),Spain,desktop,Macintosh,en
+2021-01-19 02:00:56.612999 UTC,2183599832,10019537.3159042839+2183599832,session_start,,shop.googlemerchandisestore.com,referral,(referral),Spain,desktop,Macintosh,en
+2021-01-25 16:52:48.367021 UTC,7093172059,10019667.3830900833+7093172059,view_item,Google+Redesign/Office/Notebooks+Journals/Google+Metallic+Notebook+Set.axd,(direct),(none),(direct),United States,desktop,Web,en-us
+2021-01-25 16:52:43.358352 UTC,7093172059,10019667.3830900833+7093172059,session_start,Google+Redesign/Office/Notebooks+Journals/Google+Metallic+Notebook+Set.axd,(direct),(none),(direct),United States,desktop,Web,en-us
+2021-01-02 04:22:55.823076 UTC,9155066921,10019709.2256788318+9155066921,session_start,,google,organic,(organic),United States,desktop,Web,ko
+2020-12-14 07:33:30.482648 UTC,1558602328,10019799.8803832417+1558602328,session_start,store.html,google,organic,(organic),India,desktop,Macintosh,fr
+2020-12-11 15:17:37.641555 UTC,7947444247,1002023.5559928178+7947444247,session_start,store-policies/frequently-asked-questions/,(direct),(none),(direct),United States,mobile,Android,en-us
+2020-11-22 01:10:48.858142 UTC,8853650972,10020241.8571578700+8853650972,session_start,,(direct),(none),(direct),Italy,mobile,iOS,en-us
+2020-12-08 23:51:32.561714 UTC,7072627458,1002026.5179786689+7072627458,session_start,,google,organic,(organic),Guatemala,desktop,Macintosh,
+2020-12-08 23:52:06.715526 UTC,7072627458,1002026.5179786689+7072627458,view_item,Google+Redesign/Stationery,google,organic,(organic),Guatemala,desktop,Macintosh,
+2020-12-09 12:57:26.742376 UTC,7276341373,1002026.5179786689+7276341373,session_start,Google+Redesign/Stationery,google,organic,(organic),Guatemala,desktop,Macintosh,
+2020-11-27 22:39:02.611588 UTC,1665875947,10020943.7729492845+1665875947,session_start,Google+Redesign/Apparel/Mens/Mens+T+Shirts,google,organic,(organic),Canada,desktop,Web,
+2020-12-25 18:30:04.450512 UTC,2867996807,1002118.4468776061+2867996807,session_start,Google+Redesign/Apparel,(direct),(none),(direct),United States,desktop,Web,
+2020-12-04 08:08:58.464238 UTC,885344562,10021244.1952175629+885344562,view_item,Google+Redesign/Lifestyle/Small+Goods,google,organic,(organic),Tunisia,mobile,Web,en-us
+2020-12-04 08:03:51.751833 UTC,885344562,10021244.1952175629+885344562,view_item,Google+Redesign/Clearance,google,organic,(organic),Tunisia,mobile,Web,en-us
+2020-12-04 08:08:40.749366 UTC,885344562,10021244.1952175629+885344562,view_item,Google+Redesign/Lifestyle/Small+Goods,google,organic,(organic),Tunisia,mobile,Web,en-us
+2020-12-04 08:03:01.212408 UTC,885344562,10021244.1952175629+885344562,session_start,,google,organic,(organic),Tunisia,mobile,Web,en-us
+2020-12-04 08:09:03.996443 UTC,885344562,10021244.1952175629+885344562,view_item,Google+Redesign/Lifestyle/Small+Goods,google,organic,(organic),Tunisia,mobile,Web,en-us
+2020-12-04 08:08:07.871569 UTC,885344562,10021244.1952175629+885344562,add_to_cart,Google+Redesign/Lifestyle/Small+Goods,google,organic,(organic),Tunisia,mobile,Web,en-us
+2020-12-04 08:11:47.685054 UTC,885344562,10021244.1952175629+885344562,view_item,Google+Redesign/New,google,organic,(organic),Tunisia,mobile,Web,en-us
+2020-12-04 08:03:41.100175 UTC,885344562,10021244.1952175629+885344562,view_item,Google+Redesign/Clearance,google,organic,(organic),Tunisia,mobile,Web,en-us
+2020-12-04 08:03:41.100175 UTC,885344562,10021244.1952175629+885344562,add_to_cart,Google+Redesign/Clearance,google,organic,(organic),Tunisia,mobile,Web,en-us
+2020-12-04 08:09:44.569048 UTC,885344562,10021244.1952175629+885344562,view_item,Google+Redesign/Lifestyle/Small+Goods,google,organic,(organic),Tunisia,mobile,Web,en-us
+2020-12-04 08:08:01.999083 UTC,885344562,10021244.1952175629+885344562,view_item,Google+Redesign/Lifestyle/Small+Goods,google,organic,(organic),Tunisia,mobile,Web,en-us
+2020-12-04 08:09:03.996443 UTC,885344562,10021244.1952175629+885344562,add_to_cart,Google+Redesign/Lifestyle/Small+Goods,google,organic,(organic),Tunisia,mobile,Web,en-us
+2020-12-04 08:11:21.726847 UTC,885344562,10021244.1952175629+885344562,view_item,Google+Redesign/New,google,organic,(organic),Tunisia,mobile,Web,en-us
+2020-12-04 08:11:42.534793 UTC,885344562,10021244.1952175629+885344562,view_item,Google+Redesign/New,google,organic,(organic),Tunisia,mobile,Web,en-us
+2020-12-18 10:28:53.259295 UTC,5138415120,1002132.5271429280+5138415120,session_start,Google+Redesign/Apparel,google,organic,(organic),United States,mobile,iOS,
+2021-01-19 18:09:23.396949 UTC,794018674,10021698.0132251453+794018674,session_start,,shop.googlemerchandisestore.com,referral,(referral),India,mobile,Web,en-us
+2021-01-20 18:00:39.802004 UTC,8220565609,10021698.0132251453+8220565609,session_start,,(data deleted),(data deleted),(data deleted),India,mobile,Web,en-us
+2021-01-19 15:25:21.737963 UTC,8987080319,10021698.0132251453+8987080319,session_start,,google,organic,(organic),India,mobile,Web,en-us
+2020-12-14 11:09:31.355360 UTC,4118831426,10021712.2608109429+4118831426,session_start,store.html,google,organic,(organic),United States,mobile,iOS,
+2020-11-29 17:44:36.652503 UTC,6573930953,1002240.9182916960+6573930953,session_start,Google+Redesign/Apparel/Hats,(direct),(none),(direct),United States,mobile,Android,
+2020-11-16 04:20:59.169424 UTC,3649437895,1002250.8458851280+3649437895,session_start,,(direct),(none),(direct),Puerto Rico,desktop,Web,
+2020-11-13 11:48:31.874755 UTC,2222570423,10022529.1128108376+2222570423,session_start,,(direct),(none),(direct),Turkey,desktop,Windows,
+2020-12-02 16:08:32.188681 UTC,1658164043,1002254.4814908022+1658164043,session_start,,google,organic,(organic),United States,desktop,Macintosh,en-us
+2020-12-02 12:59:05.523218 UTC,2366566033,1002254.4814908022+2366566033,session_start,Google+Redesign/New,google,organic,(organic),United States,desktop,Macintosh,en-us
+2020-12-01 19:36:19.696833 UTC,5381389438,1002254.4814908022+5381389438,session_start,,google,cpc,<Other>,United States,desktop,Macintosh,en-us
+2020-12-02 20:02:03.200052 UTC,6759363346,1002254.4814908022+6759363346,session_start,,shop.googlemerchandisestore.com,referral,(referral),United States,desktop,Macintosh,en-us
+2020-12-25 04:25:57.652416 UTC,1232217175,10022873.7591011993+1232217175,session_start,Google+Redesign/Office,google,cpc,<Other>,United States,desktop,Windows,en
+2020-11-02 20:18:13.768130 UTC,2112486562,10023115.4330865981+2112486562,session_start,signin.html,(data deleted),(data deleted),(data deleted),United States,mobile,Web,es-es
+2020-12-22 12:02:55.031578 UTC,3615397320,10023333.6748849101+3615397320,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,(direct),(none),(direct),Hong Kong,mobile,Web,
+2020-11-29 04:08:37.656060 UTC,6911967719,1002420.1671689079+6911967719,session_start,Google+Redesign/New,<Other>,referral,(referral),United States,desktop,Web,en-ca
+2020-12-15 23:16:36.473124 UTC,9105454994,1002420.1671689079+9105454994,session_start,Google+Redesign/New,(direct),(none),(direct),United States,desktop,Web,en-ca
+2020-12-13 00:54:52.330614 UTC,8462021237,10024699.9222099499+8462021237,session_start,Google+Redesign/Apparel,google,organic,(organic),Canada,desktop,Web,
+2020-12-24 01:14:44.563392 UTC,5620279644,10024839.8259989797+5620279644,view_item,Google+Redesign/Accessories/Google+Chrome+Dinosaur+Collectible,(direct),(none),(direct),France,mobile,Web,
+2020-12-24 01:14:41.295664 UTC,5620279644,10024839.8259989797+5620279644,session_start,Google+Redesign/Accessories/Google+Chrome+Dinosaur+Collectible,(direct),(none),(direct),France,mobile,Web,
+2020-11-20 04:06:19.160002 UTC,8476489739,10025069.3848916196+8476489739,session_start,,shop.googlemerchandisestore.com,referral,(referral),Taiwan,desktop,Web,en-us
+2020-11-20 04:06:52.736559 UTC,8476489739,10025069.3848916196+8476489739,view_item,Google+Redesign/Apparel,shop.googlemerchandisestore.com,referral,(referral),Taiwan,desktop,Web,en-us
+2020-11-19 01:50:54.716357 UTC,9493834125,10025069.3848916196+9493834125,session_start,,(direct),(none),(direct),Taiwan,desktop,Web,en-us
+2021-01-21 13:46:22.534495 UTC,9924080435,1002542.1018640240+9924080435,view_item,Google+Redesign/Accessories/Google+Pride+Sticker,(direct),(none),(direct),Germany,desktop,Web,
+2021-01-21 13:46:20.726909 UTC,9924080435,1002542.1018640240+9924080435,session_start,Google+Redesign/Accessories/Google+Pride+Sticker,(direct),(none),(direct),Germany,desktop,Web,
+2020-12-23 09:40:37.699834 UTC,1616918140,1002558.2156963825+1616918140,view_item,Google+Redesign/Accessories/YouTube+Iconic+Play+Pin,<Other>,organic,(organic),Iraq,mobile,Web,en-us
+2020-12-23 09:20:15.216541 UTC,1616918140,1002558.2156963825+1616918140,session_start,,<Other>,organic,(organic),Iraq,mobile,Web,en-us
+2020-12-23 09:40:18.340521 UTC,1616918140,1002558.2156963825+1616918140,view_item,asearch.html,<Other>,organic,(organic),Iraq,mobile,Web,en-us
+2020-12-23 11:27:51.788026 UTC,6212846176,1002558.2156963825+6212846176,session_start,asearch.html,(direct),(none),(direct),Iraq,mobile,Web,en-us
+2021-01-28 16:05:20.435061 UTC,5205328687,1002579.9731584252+5205328687,session_start,,google,organic,(organic),Brazil,desktop,Macintosh,zh
+2021-01-07 09:48:19.295568 UTC,7949776949,1002616.3660015684+7949776949,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,<Other>,<Other>,<Other>,United States,mobile,iOS,en-us
+2020-11-11 18:43:47.474173 UTC,2192681279,1002630.7763383675+2192681279,session_start,,<Other>,referral,(referral),Switzerland,desktop,Web,zh
+2021-01-08 12:15:57.030275 UTC,6837785228,10026404.5917092790+6837785228,session_start,Google+Redesign/Apparel,<Other>,<Other>,<Other>,India,mobile,Web,fr
+2021-01-09 05:50:42.538257 UTC,6897324811,10026404.5917092790+6897324811,session_start,Google+Redesign/Apparel,shop.googlemerchandisestore.com,referral,(referral),India,mobile,Web,fr
+2021-01-04 12:19:18.288898 UTC,7880086359,10026592.2226091280+7880086359,session_start,Google+Redesign/Apparel/Mens/Mens+T+Shirts,(direct),(none),(direct),United States,desktop,<Other>,en-gb
+2020-12-08 04:33:41.836436 UTC,5182340414,10026634.2162806010+5182340414,session_start,store-policies/return-policy/,<Other>,referral,(referral),United States,mobile,Web,en-us
+2020-11-03 16:41:17.119555 UTC,2758626908,10027151.2436637057+2758626908,session_start,dbhu,(direct),(none),(direct),United States,desktop,Web,
+2020-11-03 16:50:39.382298 UTC,395558213,10027151.2436637057+395558213,session_start,,<Other>,referral,(referral),United States,desktop,Web,
+2020-11-03 19:15:54.561813 UTC,9057432924,10027151.2436637057+9057432924,session_start,dbhu,google,organic,(organic),United States,desktop,Web,
+2020-11-25 21:22:16.474556 UTC,247550356,10027192.6302359279+247550356,session_start,,<Other>,organic,(organic),India,mobile,Web,
+2020-12-12 04:51:06.207988 UTC,7310312719,10027193.1475661548+7310312719,session_start,,(direct),(none),(direct),United States,mobile,Android,en-us
+2021-01-30 23:27:25.394719 UTC,4189096151,10027238.8602099302+4189096151,session_start,Google+Redesign/Apparel,(direct),(none),(direct),United States,mobile,Android,en-us
+2020-12-08 02:24:04.509465 UTC,3571832499,10027308.3837275646+3571832499,session_start,,google,organic,(organic),United States,desktop,Web,zh
+2021-01-23 14:01:57.047837 UTC,1919485663,10027649.0788067130+1919485663,session_start,signin.html,<Other>,<Other>,<Other>,Taiwan,desktop,Macintosh,
+2020-12-16 13:49:04.046986 UTC,4468554622,10028010.4129546100+4468554622,session_start,Google+Redesign/Apparel,<Other>,referral,(referral),Canada,desktop,Web,
+2021-01-25 13:36:11.982986 UTC,4387357871,10028188.3857887509+4387357871,session_start,,(data deleted),(data deleted),(data deleted),India,desktop,<Other>,en-us
+2021-01-17 09:56:24.385454 UTC,484717259,10028188.3857887509+484717259,session_start,,(data deleted),(data deleted),<Other>,India,desktop,<Other>,en-us
+2021-01-10 09:34:12.822259 UTC,7400513125,10028188.3857887509+7400513125,session_start,,<Other>,referral,(referral),India,desktop,<Other>,en-us
+2020-12-31 13:52:50.398268 UTC,4138970228,10028682.0837822382+4138970228,session_start,Google+Redesign/Apparel,google,organic,(organic),United States,mobile,iOS,
+2021-01-10 22:25:12.591375 UTC,8693879041,10028745.4613368271+8693879041,session_start,Google+Redesign/Shop+by+Brand/YouTube,(direct),(none),(direct),United States,desktop,Web,en-us
+2021-01-03 04:18:54.068295 UTC,4447324302,1002909.5490808649+4447324302,session_start,,google,organic,(organic),United States,desktop,Web,en-us
+2021-01-12 05:37:14.382825 UTC,196909585,1002919.0971151508+196909585,session_start,,google,organic,(organic),United States,desktop,Web,
+2021-01-12 08:28:08.967714 UTC,9872093409,1002919.0971151508+9872093409,session_start,,shop.googlemerchandisestore.com,referral,(referral),United States,desktop,Web,
+2021-01-05 19:10:00.324095 UTC,4999942353,10029334.6789148769+4999942353,session_start,Google+Redesign/Office/Google+Clear+Pen+4pack,(direct),(none),(direct),United States,mobile,Web,en
+2021-01-05 19:10:04.974930 UTC,4999942353,10029334.6789148769+4999942353,view_item,Google+Redesign/Office/Google+Clear+Pen+4pack,(direct),(none),(direct),United States,mobile,Web,en
+2020-11-03 16:49:14.385427 UTC,2255753208,10029435.1186407842+2255753208,session_start,,google,organic,(organic),(not set),desktop,Web,en-us
+2020-12-04 16:44:25.646170 UTC,4960468423,1002964.0367176528+4960468423,session_start,Google+Redesign/bags/backpacks/,(direct),(none),(direct),Italy,desktop,Windows,
+2020-12-05 01:16:26.356482 UTC,8516935927,10029694.8587385845+8516935927,begin_checkout,yourinfo.html,google,cpc,<Other>,Malaysia,mobile,Web,
+2020-12-05 01:16:26.347044 UTC,8516935927,10029694.8587385845+8516935927,add_shipping_info,yourinfo.html,google,cpc,<Other>,Malaysia,mobile,Web,
+2020-12-05 01:14:16.605846 UTC,8516935927,10029694.8587385845+8516935927,session_start,Google+Redesign/Stationery/Stickers,google,cpc,<Other>,Malaysia,mobile,Web,
+2020-12-05 01:14:58.386026 UTC,8516935927,10029694.8587385845+8516935927,view_item,Google+Redesign/Stationery/Stickers,google,cpc,<Other>,Malaysia,mobile,Web,
+2020-12-05 01:16:26.995579 UTC,8516935927,10029694.8587385845+8516935927,begin_checkout,yourinfo.html,google,cpc,<Other>,Malaysia,mobile,Web,
+2020-12-05 01:15:13.966293 UTC,8516935927,10029694.8587385845+8516935927,view_item,Google+Redesign/Electronics/Accessories/Keyboard+DOT+Sticker.axd,google,cpc,<Other>,Malaysia,mobile,Web,
+2020-12-28 11:27:18.103574 UTC,711996701,1002973.0469692774+711996701,session_start,Google+Redesign/Apparel,(direct),(none),(direct),India,desktop,Windows,en
+2020-12-12 06:18:27.766119 UTC,3613923066,10030115.8677097876+3613923066,session_start,Google+Redesign/Stationery,<Other>,referral,(referral),United States,desktop,Windows,zh
+2021-01-01 02:31:58.563156 UTC,3209612510,1003046.9452926974+3209612510,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,google,organic,(organic),France,desktop,Windows,en-us
+2020-12-17 09:16:13.809859 UTC,3593804493,10031000.9056407931+3593804493,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,<Other>,<Other>,<Other>,New Zealand,desktop,<Other>,ko
+2021-01-15 13:21:02.570705 UTC,9770859915,1003157.8232583593+9770859915,session_start,Google+Redesign/Apparel/Mens,<Other>,<Other>,<Other>,United States,desktop,Windows,en-us
+2020-12-28 06:45:18.934244 UTC,8119607632,1003199.3598943909+8119607632,session_start,Google+Redesign/Shop+by+Brand/YouTube,google,organic,(organic),United States,mobile,Web,
+2021-01-18 14:38:26.651831 UTC,9993736693,10032351.2671109011+9993736693,session_start,Google+Redesign/Apparel,google,organic,(organic),Brazil,desktop,Web,en-us
+2021-01-07 02:36:36.933025 UTC,1338614358,10032565.3505947656+1338614358,session_start,Google+Redesign/Apparel,<Other>,organic,(organic),(not set),mobile,iOS,en-gb
+2020-11-03 16:00:09.656817 UTC,9243563473,1003341.8456479788+9243563473,session_start,,<Other>,referral,(referral),United States,mobile,iOS,en-us
+2020-11-30 20:12:24.429511 UTC,6325094255,10034008.1861487427+6325094255,session_start,google+redesign/apparel/quickview,<Other>,referral,(referral),Italy,mobile,Web,
+2020-11-30 21:18:48.936939 UTC,9521383335,10034008.1861487427+9521383335,session_start,store.html,google,organic,(organic),Italy,mobile,Web,
+2020-12-12 09:36:34.548591 UTC,2079717323,1003437.3646027538+2079717323,session_start,Google+Redesign/Apparel,<Other>,<Other>,<Other>,United States,mobile,Web,en-us
+2021-01-27 23:04:49.895435 UTC,5607228582,1003596.5123018207+5607228582,session_start,,google,organic,(organic),United States,mobile,Android,en-us
+2020-11-07 11:13:40.529803 UTC,4105298639,10036143.2860149872+4105298639,session_start,Google+Redesign/Shop+by+Brand/YouTube,<Other>,<Other>,<Other>,Japan,desktop,Web,
+2020-12-05 01:47:36.344706 UTC,4492201895,10036173.0919505263+4492201895,session_start,,google,organic,(organic),United States,desktop,Windows,en-us
+2020-11-23 20:25:07.232707 UTC,8073839440,10036626.5627648721+8073839440,session_start,,(direct),(none),(direct),Brazil,desktop,Web,
+2020-12-09 16:41:57.102340 UTC,2462077361,10036927.0025261178+2462077361,session_start,Google+Redesign/Stationery,(data deleted),(data deleted),(data deleted),Pakistan,desktop,Web,
+2020-11-24 21:42:48.433434 UTC,7729280957,10036927.0025261178+7729280957,session_start,,<Other>,organic,(organic),Pakistan,desktop,Web,
+2020-12-09 15:58:29.561448 UTC,9653216621,10036927.0025261178+9653216621,session_start,Google+Redesign/Stationery/Notebooks,(data deleted),(data deleted),(data deleted),Pakistan,desktop,Web,
+2020-12-20 17:20:05.027497 UTC,8428309836,1003697.9625154394+8428309836,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,google,organic,(organic),United States,desktop,Macintosh,en-us
+2021-01-17 10:07:32.602604 UTC,2410177724,1003717.5976366234+2410177724,session_start,Google+Redesign/Shop+by+Brand/YouTube,google,organic,(organic),Indonesia,desktop,Windows,
+2020-11-28 06:07:34.921752 UTC,5895226446,10037373.5033252361+5895226446,session_start,,<Other>,<Other>,<Other>,United States,mobile,Android,en-gb
+2021-01-30 19:33:11.412869 UTC,3126653299,1003767.6377557703+3126653299,session_start,Google+Redesign/Apparel,<Other>,<Other>,<Other>,Italy,mobile,iOS,en-gb
+2020-12-16 14:20:26.581472 UTC,6172811027,10037739.1394636773+6172811027,session_start,google+redesign/apparel/google+dino+game+tee,<Other>,organic,(organic),India,mobile,Web,en-us
+2020-12-03 06:41:19.357417 UTC,9825354232,10038509.9785651642+9825354232,session_start,,<Other>,organic,(organic),United States,desktop,Windows,
+2020-12-27 06:52:57.224076 UTC,7823929488,10038573.9368898662+7823929488,session_start,Google+Redesign/Apparel/YouTube+Icon+Hoodie+Black,<Other>,referral,(referral),United States,mobile,Web,fr
+2021-01-15 18:12:48.846800 UTC,2629700881,1003861.0959917123+2629700881,session_start,Google+Redesign/Apparel,(direct),(none),(direct),India,mobile,Web,en-gb
+2021-01-15 20:53:33.613074 UTC,9742626190,1003861.0959917123+9742626190,session_start,Google+Redesign/Apparel/Mens,(data deleted),(data deleted),<Other>,India,mobile,Web,en-gb
+2020-12-10 02:34:27.371778 UTC,7110116227,10038611.5457882649+7110116227,view_item,Google+Redesign/Apparel/Mens,shop.googlemerchandisestore.com,referral,(referral),South Korea,desktop,Windows,en-us
+2020-12-10 02:32:50.272748 UTC,7110116227,10038611.5457882649+7110116227,view_item,Google+Redesign/Accessories/Google+Large+Pet+Collar+Blue+Green,shop.googlemerchandisestore.com,referral,(referral),South Korea,desktop,Windows,en-us
+2020-12-10 02:32:44.087752 UTC,7110116227,10038611.5457882649+7110116227,view_item,asearch.html,shop.googlemerchandisestore.com,referral,(referral),South Korea,desktop,Windows,en-us
+2020-12-10 02:31:13.197384 UTC,7110116227,10038611.5457882649+7110116227,view_item,Google+Redesign/eco+friendly,shop.googlemerchandisestore.com,referral,(referral),South Korea,desktop,Windows,en-us
+2020-12-10 02:30:15.153373 UTC,7110116227,10038611.5457882649+7110116227,session_start,,shop.googlemerchandisestore.com,referral,(referral),South Korea,desktop,Windows,en-us
+2021-01-08 02:46:54.118599 UTC,6675594339,1003880.5623994712+6675594339,session_start,Google+Redesign/Apparel,(direct),(none),(direct),United States,mobile,Web,
+2021-01-19 17:54:15.390292 UTC,1434161699,10039416.5446852339+1434161699,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,google,organic,(organic),Taiwan,mobile,Web,
+2020-12-22 12:20:55.473005 UTC,2680077678,10039752.0290979374+2680077678,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,(direct),(none),(direct),Canada,desktop,Web,
+2020-11-10 03:03:31.814342 UTC,2222583737,1004129.5399998757+2222583737,session_start,,google,organic,(organic),United States,mobile,Web,en-gb
+2020-12-20 07:34:16.751781 UTC,1974519445,1004200.1845719333+1974519445,session_start,,(direct),(none),(direct),Belgium,mobile,Web,en-us
+2021-01-19 17:16:22.236584 UTC,4495664742,1004217960.2296729519+4495664742,session_start,Google+Redesign/Clearance,google,organic,(organic),Taiwan,mobile,Web,en-us
+2021-01-22 04:51:29.559541 UTC,8422148808,10043121.4435608832+8422148808,session_start,,(direct),(none),(direct),South Africa,desktop,Web,
+2021-01-28 13:57:09.862181 UTC,4244807580,10043335.8680741238+4244807580,view_item,Google+Redesign/Lifestyle/Google+Land+and+Sea+Nalgene+Water+Bottle+LS,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:48:07.097497 UTC,4244807580,10043335.8680741238+4244807580,view_item,Google+Redesign/Apparel/Kids,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:43:05.148711 UTC,4244807580,10043335.8680741238+4244807580,view_item,Google+Redesign/Super+G+Unisex+Joggers,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:41:43.768985 UTC,4244807580,10043335.8680741238+4244807580,session_start,,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:48:55.514984 UTC,4244807580,10043335.8680741238+4244807580,view_item,Google+Redesign/Apparel/Mens,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:44:32.994813 UTC,4244807580,10043335.8680741238+4244807580,view_item,store.html,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:47:25.214103 UTC,4244807580,10043335.8680741238+4244807580,view_item,Google+Redesign/Apparel/Google+Youth+FC+Zip+Hoodie,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:57:06.042120 UTC,4244807580,10043335.8680741238+4244807580,view_item,Google+Redesign/Lifestyle/Drinkware,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:45:34.507353 UTC,4244807580,10043335.8680741238+4244807580,view_item,store.html,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:51:36.882137 UTC,4244807580,10043335.8680741238+4244807580,begin_checkout,yourinfo.html,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:43:41.964536 UTC,4244807580,10043335.8680741238+4244807580,view_item,Google+Redesign/Apparel/IamRemarkable+Hoodie,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:45:07.121669 UTC,4244807580,10043335.8680741238+4244807580,view_item,store.html,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:47:16.853746 UTC,4244807580,10043335.8680741238+4244807580,view_item,Google+Redesign/Apparel/Kids,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:42:32.653635 UTC,4244807580,10043335.8680741238+4244807580,view_item,Google+Redesign/Apparel/Womens,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:48:52.358322 UTC,4244807580,10043335.8680741238+4244807580,view_item,Google+Redesign/Super+G+Unisex+Joggers,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:46:27.980038 UTC,4244807580,10043335.8680741238+4244807580,view_item,Google+Redesign/Campus+Collection/Google+Mountain+View+Campus+Zip+Hoodie,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:51:36.870279 UTC,4244807580,10043335.8680741238+4244807580,add_shipping_info,yourinfo.html,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:43:02.528887 UTC,4244807580,10043335.8680741238+4244807580,view_item,Google+Redesign/Apparel/Womens,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:48:42.002856 UTC,4244807580,10043335.8680741238+4244807580,view_item,Google+Redesign/Apparel/Mens,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:43:38.562117 UTC,4244807580,10043335.8680741238+4244807580,view_item,Google+Redesign/Apparel/Womens,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:51:36.870220 UTC,4244807580,10043335.8680741238+4244807580,begin_checkout,yourinfo.html,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:48:11.329217 UTC,4244807580,10043335.8680741238+4244807580,view_item,Google+Redesign/Apparel/Google+Youth+FC+Longsleeve+Charcoal,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:55:33.702780 UTC,4244807580,10043335.8680741238+4244807580,view_item,Google+Redesign/Apparel/Socks,(direct),(none),(direct),United States,desktop,Web,
+2021-01-28 13:46:21.915890 UTC,4244807580,10043335.8680741238+4244807580,view_item,store.html,(direct),(none),(direct),United States,desktop,Web,
+2020-11-11 14:43:02.925512 UTC,2783811387,10043690.0415770991+2783811387,session_start,Google+Redesign/Lifestyle,(data deleted),(data deleted),(data deleted),United Kingdom,desktop,Web,en-us
+2020-11-11 05:16:37.699818 UTC,5215266757,10043690.0415770991+5215266757,session_start,,(data deleted),(data deleted),(data deleted),United Kingdom,desktop,Web,en-us
+2020-11-13 13:21:25.209107 UTC,4585292403,10044218.2144015128+4585292403,session_start,,(direct),(none),(direct),United States,desktop,Web,en-ca
+2021-01-05 08:48:38.348357 UTC,4013867534,10044786.3069998114+4013867534,session_start,,shop.googlemerchandisestore.com,referral,(referral),South Korea,desktop,Macintosh,en-us
+2020-12-03 02:31:17.219426 UTC,4621721649,1004489166.3725512180+4621721649,session_start,,shop.googlemerchandisestore.com,referral,(referral),Egypt,mobile,Web,en
+2021-01-13 00:30:26.248906 UTC,1472239785,1004545.8016952581+1472239785,session_start,,(direct),(none),(direct),United States,desktop,<Other>,en-us
+2020-12-30 21:31:04.529688 UTC,1971965727,10045496.6768851829+1971965727,view_item,Google+Redesign/Apparel/Mens,google,cpc,<Other>,Canada,desktop,Macintosh,es-es
+2020-12-30 21:29:27.828636 UTC,1971965727,10045496.6768851829+1971965727,session_start,,google,cpc,<Other>,Canada,desktop,Macintosh,es-es
+2020-11-24 22:15:48.573217 UTC,7683244123,10046551.5674437827+7683244123,session_start,Google+Redesign/Stationery,(data deleted),(data deleted),(data deleted),United States,mobile,Android,en-us
+2020-11-23 05:28:56.143747 UTC,7853085390,10046551.5674437827+7853085390,session_start,Google+Redesign/Apparel,google,organic,(organic),United States,mobile,Android,en-us
+2020-11-25 14:39:45.196270 UTC,1485036665,10046902.6865524467+1485036665,session_start,store.html,google,organic,(organic),United States,mobile,Android,en-us
+2020-12-04 01:06:12.197906 UTC,5462319804,1004698.6343085048+5462319804,session_start,,google,organic,(organic),Brazil,mobile,iOS,en-gb
+2020-12-26 08:50:14.915873 UTC,7362368637,10047010.7999352562+7362368637,session_start,,<Other>,organic,(organic),India,mobile,Android,
+2020-12-14 22:58:11.600204 UTC,3658763932,10047204.3950639458+3658763932,session_start,,google,organic,(organic),United States,mobile,Web,
+2021-01-21 19:30:31.170087 UTC,4333701886,10047819.8445450749+4333701886,session_start,,<Other>,<Other>,<Other>,United States,mobile,iOS,
+2021-01-21 21:23:04.146242 UTC,9126061922,10047819.8445450749+9126061922,session_start,,(data deleted),(data deleted),(data deleted),United States,mobile,iOS,
+2021-01-31 07:50:46.451188 UTC,2973849452,10048419.1830672374+2973849452,session_start,,shop.googlemerchandisestore.com,referral,(referral),Canada,desktop,Web,
+2020-12-06 20:24:39.862153 UTC,1081792298,10048941.2114589373+1081792298,session_start,,shop.googlemerchandisestore.com,referral,(referral),United States,desktop,Windows,
+2021-01-06 02:09:42.338382 UTC,4800764148,10049321.9114706398+4800764148,session_start,,(direct),(none),(direct),Mexico,desktop,Web,en
+2020-11-15 13:40:58.945033 UTC,3950927370,1005031.6891860355+3950927370,session_start,,(direct),(none),(direct),Romania,desktop,Web,en-us
+2021-01-04 23:52:54.415969 UTC,7975368722,10050340.6104993585+7975368722,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,google,organic,(organic),Australia,desktop,Macintosh,en-gb
+2020-11-16 14:36:29.044721 UTC,1842631238,1005036.9526648878+1842631238,session_start,,google,organic,(organic),United Kingdom,mobile,Web,en-us
+2020-11-09 09:58:21.989513 UTC,4447489516,1005036.9526648878+4447489516,session_start,,google,organic,(organic),United Kingdom,mobile,Web,en-us
+2020-11-09 13:54:11.404173 UTC,4495625036,1005036.9526648878+4495625036,session_start,,(direct),(none),(direct),United Kingdom,mobile,Web,en-us
+2020-11-09 13:57:53.712331 UTC,4495625036,1005036.9526648878+4495625036,view_item,Google+Redesign/Apparel,(direct),(none),(direct),United Kingdom,mobile,Web,en-us
+2020-11-09 15:57:08.459535 UTC,7020396893,1005036.9526648878+7020396893,session_start,Google+Redesign/Apparel,<Other>,<Other>,<Other>,United Kingdom,mobile,Web,en-us
+2020-11-02 14:52:34.378851 UTC,7273196582,10050667.2843786547+7273196582,session_start,,(direct),(none),(direct),Peru,desktop,Web,en-us
+2021-01-12 18:46:22.889946 UTC,4499101676,10051113.8551201165+4499101676,session_start,Google+Redesign/Apparel,google,organic,(organic),Canada,desktop,Macintosh,en
+2021-01-18 14:30:08.708980 UTC,4530616693,1005116503.2058624364+4530616693,session_start,Google+Redesign/Apparel/Mens,google,cpc,<Other>,Singapore,desktop,Web,en-gb
+2021-01-09 13:55:13.415165 UTC,2175014091,1005135.7420954038+2175014091,session_start,Google+Redesign/Apparel,<Other>,referral,(referral),United States,desktop,Macintosh,en-us
+2020-11-15 00:58:30.168130 UTC,8553509010,10051547.6321689985+8553509010,session_start,,(direct),(none),(direct),Netherlands,desktop,Web,en-us
+2020-11-20 04:39:58.537371 UTC,1387291912,1005159.8219263135+1387291912,session_start,store-policies/shipping-information/,google,organic,(organic),United Kingdom,desktop,Web,en-us
+2021-01-12 16:27:16.538938 UTC,5930699620,1005161.5002217328+5930699620,session_start,,(direct),(none),(direct),Canada,desktop,Macintosh,en-us
+2020-12-20 18:24:57.224329 UTC,2263147110,1005230.9222869630+2263147110,session_start,,<Other>,organic,(organic),Peru,desktop,Web,en-us
+2020-11-10 02:16:05.067604 UTC,888790700,10052906.5338094592+888790700,session_start,Google+Redesign/Bags/Google+Utility+BackPack,google,organic,(organic),Canada,desktop,Web,
+2020-11-10 02:19:29.021180 UTC,888790700,10052906.5338094592+888790700,view_item,store.html,google,organic,(organic),Canada,desktop,Web,
+2020-11-10 02:16:10.156152 UTC,888790700,10052906.5338094592+888790700,view_item,Google+Redesign/Bags/Google+Utility+BackPack,google,organic,(organic),Canada,desktop,Web,
+2020-11-10 02:19:37.595137 UTC,888790700,10052906.5338094592+888790700,view_item,Google+Redesign/Bags/Android+Iconic+Backpack,google,organic,(organic),Canada,desktop,Web,
+2021-01-03 16:07:41.209988 UTC,7262231444,1005317.0661766703+7262231444,session_start,Google+Redesign/Shop+by+Brand/YouTube,google,organic,(organic),South Korea,mobile,Web,en-ca
+2020-12-02 06:44:04.519429 UTC,9944957555,1005326.4012506369+9944957555,session_start,basket.html,(direct),(none),(direct),Argentina,desktop,Web,en-us
+2020-11-28 11:45:23.459356 UTC,6902839632,10053353.2744039235+6902839632,session_start,,google,organic,(organic),United States,mobile,Android,
+2020-11-28 09:01:08.152046 UTC,8069841103,10053353.2744039235+8069841103,session_start,,(direct),(none),(direct),United States,mobile,Android,
+2020-11-10 21:13:43.696672 UTC,6342918159,10053359.0497464705+6342918159,session_start,,google,cpc,<Other>,United States,mobile,iOS,en-us
+2020-11-17 05:31:04.051491 UTC,705884601,10053444.2493222997+705884601,session_start,Google+Redesign/Shop+by+Brand/YouTube,<Other>,<Other>,<Other>,Indonesia,desktop,Windows,
+2021-01-02 23:58:22.621203 UTC,3008449243,10053856.2361626961+3008449243,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,google,organic,(organic),United States,desktop,Web,en-us
+2020-12-03 17:13:37.575640 UTC,282413910,10053923.3789061282+282413910,session_start,,(data deleted),(data deleted),(data deleted),United States,desktop,Web,es-es
+2020-11-26 15:46:18.070388 UTC,3355436798,10053923.3789061282+3355436798,session_start,,(direct),(none),(direct),United States,desktop,Web,es-es
+2020-11-24 16:21:26.238977 UTC,6205545833,10053923.3789061282+6205545833,session_start,,shop.googlemerchandisestore.com,referral,(referral),United States,desktop,Web,es-es
+2020-11-28 06:21:07.433281 UTC,7580500663,10053923.3789061282+7580500663,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,google,organic,(organic),United States,desktop,Web,es-es
+2020-11-26 17:01:52.323176 UTC,822310725,10053923.3789061282+822310725,session_start,basket.html,(direct),(none),(direct),United States,desktop,Web,es-es
+2020-11-08 18:51:38.242754 UTC,9156019730,10053923.3789061282+9156019730,session_start,,(data deleted),(data deleted),(data deleted),United States,desktop,Web,es-es
+2020-12-08 09:11:20.747652 UTC,3188143157,1005400.7584979060+3188143157,session_start,,<Other>,<Other>,<Other>,Palestine,desktop,<Other>,en-gb
+2021-01-04 10:31:43.947266 UTC,3864861066,10054164.7393901670+3864861066,session_start,Google+Redesign/Apparel/YouTube+Icon+Hoodie+Black,<Other>,referral,(referral),United States,desktop,Web,en-us
+2020-11-01 14:37:52.072520 UTC,4426974777,10054495.7553807982+4426974777,view_item,Google+Redesign/Apparel/Hats,google,organic,(organic),Canada,desktop,Web,en-us
+2020-11-01 14:37:36.516750 UTC,4426974777,10054495.7553807982+4426974777,session_start,,google,organic,(organic),Canada,desktop,Web,en-us
+2020-12-20 17:24:36.138758 UTC,8149598333,10054558.4887755035+8149598333,session_start,,google,organic,(organic),India,desktop,Web,
+2020-12-23 04:54:00.112539 UTC,300902082,10054683.3779736449+300902082,session_start,Google+Redesign/Apparel/YouTube+Icon+Hoodie+Black,<Other>,referral,(referral),Latvia,desktop,Web,en-us
+2021-01-02 06:16:22.969088 UTC,2718913892,1005484.1092567297+2718913892,session_start,Google+Redesign/Shop+by+Brand/YouTube,google,organic,(organic),United States,desktop,Web,
+2020-12-31 06:08:28.977464 UTC,4664322296,1005538.3649404164+4664322296,session_start,Google+Redesign/Apparel,google,organic,(organic),United States,desktop,Macintosh,en-us
+2021-01-29 15:59:41.638874 UTC,8874080085,10055862.7781885723+8874080085,session_start,,google,organic,(organic),India,mobile,iOS,en-us
+2020-12-08 03:39:48.404087 UTC,9870237282,1005636.5696463053+9870237282,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,google,cpc,<Other>,United States,mobile,Android,en-gb
+2020-11-18 14:11:07.516775 UTC,555733045,10056754.0164025572+555733045,view_item,Google+Redesign/Lifestyle/Bags,google,organic,(organic),United States,mobile,Web,
+2020-11-18 13:45:53.987319 UTC,555733045,10056754.0164025572+555733045,session_start,,google,organic,(organic),United States,mobile,Web,
+2020-11-18 14:11:14.751829 UTC,555733045,10056754.0164025572+555733045,view_item,Google+Redesign/Lifestyle/Bags,google,organic,(organic),United States,mobile,Web,
+2020-11-18 14:11:20.227710 UTC,555733045,10056754.0164025572+555733045,view_item,Google+Redesign/Bags/Google+Packable+Bag+Black,google,organic,(organic),United States,mobile,Web,
+2020-11-14 14:38:40.184524 UTC,5801091826,10056754.0164025572+5801091826,session_start,,shop.googlemerchandisestore.com,referral,(referral),United States,mobile,Web,
+2020-11-18 14:50:09.770579 UTC,6097577323,10056754.0164025572+6097577323,session_start,Google+Redesign/Bags/Google+Packable+Bag+Black,google,organic,(organic),United States,mobile,Web,
+2020-11-14 12:48:34.012871 UTC,8982409398,10056754.0164025572+8982409398,session_start,,(direct),(none),(direct),United States,mobile,Web,
+2020-12-15 03:12:41.634406 UTC,6879824000,10056875.7682789682+6879824000,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,<Other>,<Other>,<Other>,United States,desktop,<Other>,
+2020-11-01 00:54:33.036492 UTC,4863244888,1005694.5834348403+4863244888,session_start,Google+Redesign/Lifestyle/Drinkware,google,organic,(organic),India,desktop,Web,zh
+2021-01-07 02:09:33.137506 UTC,6091087151,10056958.1697021179+6091087151,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,google,organic,(organic),South Africa,mobile,iOS,en
+2020-12-02 10:25:42.624605 UTC,7854104288,1005824.9272994004+7854104288,session_start,Google+Redesign/Apparel,google,organic,(organic),United States,desktop,Web,fr
+2020-12-02 10:25:59.559336 UTC,7854104288,1005824.9272994004+7854104288,view_item,Google+Redesign/Apparel,google,organic,(organic),United States,desktop,Web,fr
+2021-01-29 06:42:29.494032 UTC,6985981622,10058284.2571390159+6985981622,session_start,,google,organic,(organic),Australia,mobile,iOS,zh
+2020-12-28 05:04:08.274161 UTC,6908036584,10058566.0480596493+6908036584,session_start,,google,organic,(organic),United States,mobile,iOS,zh
+2020-11-06 09:32:34.124278 UTC,7932392084,10059663.1760890687+7932392084,session_start,Google+Redesign/Drinkware/Water+Bottles,shop.googlemerchandisestore.com,referral,(referral),United Kingdom,desktop,Web,
+2020-12-20 18:26:56.309426 UTC,7454110958,10060664.7670509063+7454110958,session_start,,(direct),(none),(direct),United States,desktop,<Other>,en
+2020-12-20 18:28:16.162024 UTC,7454110958,10060664.7670509063+7454110958,view_item,Google+Redesign/Apparel,(direct),(none),(direct),United States,desktop,<Other>,en
+2020-12-20 18:28:45.293630 UTC,7454110958,10060664.7670509063+7454110958,view_item,Google+Redesign/Apparel,(direct),(none),(direct),United States,desktop,<Other>,en
+2020-12-20 18:28:22.494839 UTC,7454110958,10060664.7670509063+7454110958,view_item,Google+Redesign/Apparel/Google+Leather+Strap+Hat+Blue,(direct),(none),(direct),United States,desktop,<Other>,en
+2020-12-20 18:28:09.345134 UTC,7454110958,10060664.7670509063+7454110958,view_item,Google+Redesign/Apparel,(direct),(none),(direct),United States,desktop,<Other>,en
+2021-01-14 22:32:50.833130 UTC,7099269773,1006086.2716798679+7099269773,session_start,,google,organic,(organic),India,desktop,Web,en-us
+2021-01-22 03:44:25.423507 UTC,3528657621,10061526.7301597492+3528657621,session_start,,google,organic,(organic),Pakistan,desktop,<Other>,en-us
+2020-12-05 11:33:54.172665 UTC,5617526818,1006166.9478788565+5617526818,session_start,Google+Redesign/Shop+by+Brand/YouTube,(direct),(none),(direct),United States,mobile,Android,en-ca
+2021-01-30 23:23:12.602693 UTC,7024281679,1006220.7590956157+7024281679,session_start,Google+Redesign/Apparel,google,organic,(organic),United States,mobile,iOS,en-us
+2021-01-30 23:30:43.404850 UTC,7024281679,1006220.7590956157+7024281679,view_item,Google+Redesign/Super+G+Unisex+Joggers,google,organic,(organic),United States,mobile,iOS,en-us
+2021-01-30 23:30:32.604847 UTC,7024281679,1006220.7590956157+7024281679,view_item,Google+Redesign/Apparel,google,organic,(organic),United States,mobile,iOS,en-us
+2020-11-19 15:21:15.489948 UTC,5241359834,10062568.4904927593+5241359834,session_start,store.html,(direct),(none),(direct),United States,mobile,iOS,en-us
+2020-12-24 11:50:32.484042 UTC,7026837757,10062773.2207552962+7026837757,session_start,Google+Redesign/Apparel,google,organic,(organic),Lithuania,desktop,Web,en-us
+2021-01-18 04:26:40.645036 UTC,1155664696,10062802.9691392230+1155664696,session_start,,<Other>,referral,(referral),United States,desktop,Web,
+2020-11-03 08:04:54.328442 UTC,9816981307,10063085.3187710228+9816981307,session_start,,google,organic,(organic),United States,mobile,Android,
+2020-12-09 20:44:33.827306 UTC,8280545399,10063173.2501535726+8280545399,session_start,,(direct),(none),(direct),United States,desktop,Web,
+2020-12-09 21:34:08.075146 UTC,8642502169,10063173.2501535726+8642502169,session_start,,shop.googlemerchandisestore.com,referral,(referral),United States,desktop,Web,
+2020-12-05 11:01:30.705967 UTC,1620394372,1006323.4029727046+1620394372,session_start,store.html,google,cpc,<Other>,United States,mobile,Android,en-us
+2020-12-05 11:01:43.292284 UTC,1620394372,1006323.4029727046+1620394372,view_item,Google+Redesign/eco+friendly,google,cpc,<Other>,United States,mobile,Android,en-us
+2021-01-21 01:48:30.058622 UTC,5306266345,1006354.4327369152+5306266345,session_start,basket.html,<Other>,organic,(organic),Canada,mobile,Web,en-us
+2020-11-23 14:36:17.939092 UTC,8950630509,10063980.5609478317+8950630509,session_start,,(direct),(none),(direct),United States,mobile,Web,zh
+2021-01-30 10:42:58.463256 UTC,9726577807,10064181.5175920133+9726577807,session_start,Google+Redesign/Apparel/Hats,shop.googlemerchandisestore.com,referral,(referral),United States,mobile,Web,
+2021-01-30 10:43:51.324699 UTC,9726577807,10064181.5175920133+9726577807,view_item,Google+Redesign/Apparel/Hats,shop.googlemerchandisestore.com,referral,(referral),United States,mobile,Web,
+2021-01-30 10:44:06.809713 UTC,9726577807,10064181.5175920133+9726577807,view_item,Google+Redesign/Apparel/Google+Speckled+Beanie+Navy,shop.googlemerchandisestore.com,referral,(referral),United States,mobile,Web,
+2020-12-12 00:40:13.506618 UTC,9143503225,10064577.3788906516+9143503225,session_start,store-policies/frequently-asked-questions/,google,organic,(organic),Germany,desktop,Web,en-gb
+2021-01-12 12:49:50.897904 UTC,6459385760,10064710.3263506528+6459385760,session_start,,google,organic,(organic),United States,mobile,Android,
+2021-01-07 13:58:42.957400 UTC,6099645244,10064918.6330286737+6099645244,session_start,,<Other>,<Other>,<Other>,Poland,desktop,<Other>,
+2021-01-12 09:47:47.665117 UTC,768487848,10064918.6330286737+768487848,view_item,Google+Redesign/Apparel/Mens,(data deleted),(data deleted),(data deleted),Poland,desktop,<Other>,
+2021-01-12 09:47:18.356532 UTC,768487848,10064918.6330286737+768487848,session_start,,(data deleted),(data deleted),(data deleted),Poland,desktop,<Other>,
+2021-01-12 09:48:08.450702 UTC,768487848,10064918.6330286737+768487848,view_item,Google+Redesign/Apparel/Mens,(data deleted),(data deleted),(data deleted),Poland,desktop,<Other>,
+2021-01-12 09:48:00.513526 UTC,768487848,10064918.6330286737+768487848,add_to_cart,Google+Redesign/Apparel/Mens,(data deleted),(data deleted),(data deleted),Poland,desktop,<Other>,
+2021-01-12 09:48:14.982954 UTC,768487848,10064918.6330286737+768487848,add_to_cart,Google+Redesign/Apparel/Mens,(data deleted),(data deleted),(data deleted),Poland,desktop,<Other>,
+2021-01-12 09:48:28.993169 UTC,768487848,10064918.6330286737+768487848,add_to_cart,Google+Redesign/Apparel/Mens,(data deleted),(data deleted),(data deleted),Poland,desktop,<Other>,
+2021-01-12 09:48:21.973386 UTC,768487848,10064918.6330286737+768487848,view_item,Google+Redesign/Apparel/Mens,(data deleted),(data deleted),(data deleted),Poland,desktop,<Other>,
+2021-01-12 09:47:54.515560 UTC,768487848,10064918.6330286737+768487848,add_to_cart,Google+Redesign/Apparel/Mens,(data deleted),(data deleted),(data deleted),Poland,desktop,<Other>,
+2021-01-28 19:13:48.121533 UTC,444292818,1006502.2280872859+444292818,session_start,Google+Redesign/Google+Land+and+Sea+French+Terry+Sweatshirt+LS,google,organic,(organic),India,desktop,Macintosh,en-ca
+2021-01-28 19:15:44.499651 UTC,444292818,1006502.2280872859+444292818,view_item,Google+Redesign/Clearance,google,organic,(organic),India,desktop,Macintosh,en-ca
+2021-01-28 19:13:53.132436 UTC,444292818,1006502.2280872859+444292818,view_item,Google+Redesign/Google+Land+and+Sea+French+Terry+Sweatshirt+LS,google,organic,(organic),India,desktop,Macintosh,en-ca
+2021-01-28 19:17:31.706901 UTC,444292818,1006502.2280872859+444292818,view_item,Google+Redesign/Apparel/Flamingo+and+Friends+Tee+Blue,google,organic,(organic),India,desktop,Macintosh,en-ca
+2021-01-28 19:17:22.790285 UTC,444292818,1006502.2280872859+444292818,view_item,Google+Redesign/Clearance,google,organic,(organic),India,desktop,Macintosh,en-ca
+2021-01-28 19:15:50.887599 UTC,444292818,1006502.2280872859+444292818,view_item,Google+Redesign/Drinkware/Google+Chicago+Campus+Mug,google,organic,(organic),India,desktop,Macintosh,en-ca
+2021-01-29 13:23:37.966805 UTC,7356260897,1006502.2280872859+7356260897,session_start,Google+Redesign/Clearance,shop.googlemerchandisestore.com,referral,(referral),India,desktop,Macintosh,en-ca
+2020-11-24 17:34:01.158198 UTC,1723164808,1006508.4039737522+1723164808,session_start,,(direct),(none),(direct),France,desktop,Web,zh
+2020-11-24 17:35:49.710233 UTC,1723164808,1006508.4039737522+1723164808,view_item,Google+Redesign/Campus+Collection,(direct),(none),(direct),France,desktop,Web,zh
+2020-12-30 11:28:38.340689 UTC,6005572440,1006528.0988718476+6005572440,session_start,,google,organic,(organic),Hungary,desktop,Windows,zh
+2020-12-04 06:27:36.502454 UTC,4965012127,1006578.0537272499+4965012127,session_start,Google+Redesign/Apparel,<Other>,<Other>,<Other>,United States,desktop,Windows,en-us
+2021-01-20 09:10:00.043982 UTC,6971789057,100660355.0500858815+6971789057,session_start,,google,organic,(organic),United States,mobile,Android,en-us
+2020-12-04 21:58:41.119225 UTC,2637671558,1006615.4266705757+2637671558,session_start,Google+Redesign/New,<Other>,<Other>,<Other>,India,desktop,Web,en-us
+2020-11-07 06:34:31.864123 UTC,7936037416,1006637.5892076864+7936037416,view_item,Google+Redesign/eco+friendly,google,organic,(organic),United States,desktop,Web,
+2020-11-07 06:32:48.554885 UTC,7936037416,1006637.5892076864+7936037416,session_start,,google,organic,(organic),United States,desktop,Web,
+2020-11-25 17:30:19.922473 UTC,5860885450,1006693.5207947186+5860885450,session_start,Google+Redesign/Shop+by+Brand/Google,shop.googlemerchandisestore.com,referral,(referral),United States,desktop,Web,en-us
+2020-11-25 14:55:38.162992 UTC,8035213322,1006693.5207947186+8035213322,session_start,Google+Redesign/Apparel,(direct),(none),(direct),United States,desktop,Web,en-us
+2020-11-27 18:47:30.572282 UTC,3167121601,1006698.5298126311+3167121601,session_start,Google+Redesign/Apparel,(direct),(none),(direct),United States,desktop,Windows,
+2021-01-25 16:00:11.665164 UTC,7885848538,10067199.3485629684+7885848538,session_start,store.html,<Other>,<Other>,<Other>,Canada,mobile,Android,en-us
+2020-11-06 10:32:45.494383 UTC,1243738367,10067287.9280305836+1243738367,session_start,google+redesign/office/google+pen+grass+green,<Other>,referral,(referral),United States,mobile,Web,
+2020-11-07 18:59:33.925945 UTC,1724576780,10067287.9280305836+1724576780,session_start,Google+Redesign/Office,<Other>,referral,(referral),United States,mobile,Web,
+2020-11-07 21:34:57.828109 UTC,6027796554,10067287.9280305836+6027796554,session_start,Google+Redesign/Office,shop.googlemerchandisestore.com,referral,(referral),United States,mobile,Web,
+2021-01-12 11:38:00.357290 UTC,5299578757,10067381.6736491249+5299578757,view_item,Google+Redesign/Accessories/Noogler+Android+Figure+2019,google,organic,(organic),Canada,desktop,Web,
+2021-01-12 11:37:55.347015 UTC,5299578757,10067381.6736491249+5299578757,session_start,Google+Redesign/Accessories/Noogler+Android+Figure+2019,google,organic,(organic),Canada,desktop,Web,
+2020-12-16 00:18:19.031166 UTC,2429115237,10067466.0201038409+2429115237,view_item,asearch.html,(direct),(none),(direct),France,mobile,Web,
+2020-12-16 00:15:55.237674 UTC,2429115237,10067466.0201038409+2429115237,session_start,,(direct),(none),(direct),France,mobile,Web,
+2020-12-16 00:18:25.451369 UTC,2429115237,10067466.0201038409+2429115237,view_item,Google+Redesign/Apparel/Android+Iconic+Hat+White,(direct),(none),(direct),France,mobile,Web,
+2020-12-03 23:01:45.626420 UTC,6933876235,10067466.0201038409+6933876235,session_start,Google+Redesign/Wearables/Men+s+T-Shirts/index,google,cpc,<Other>,France,mobile,Web,
+2020-11-17 22:13:21.921051 UTC,9736082331,10067466.0201038409+9736082331,session_start,,google,organic,(organic),France,mobile,Web,
+2020-12-17 23:43:40.485968 UTC,9808638500,10067466.0201038409+9808638500,session_start,Google+Redesign/Accessories/Fun,(data deleted),(data deleted),(data deleted),France,mobile,Web,
+2021-01-30 06:48:42.465011 UTC,4942176821,10067551.7999117263+4942176821,session_start,Google+Redesign/Stationery/Stickers,shop.googlemerchandisestore.com,referral,(referral),Netherlands,desktop,Web,en-us
+2020-12-06 07:56:36.777846 UTC,4206279779,1006764.2069391887+4206279779,session_start,Google+Redesign/Shop+by+Brand/YouTube,(direct),(none),(direct),United States,desktop,Web,
+2020-12-06 07:56:54.288436 UTC,4206279779,1006764.2069391887+4206279779,view_item,Google+Redesign/Shop+by+Brand/YouTube,(direct),(none),(direct),United States,desktop,Web,
+2020-12-06 07:56:41.558330 UTC,4206279779,1006764.2069391887+4206279779,view_item,Google+Redesign/Shop+by+Brand/YouTube,(direct),(none),(direct),United States,desktop,Web,
+2021-01-05 08:17:50.892857 UTC,987519183,1006764.2593478041+987519183,view_item,store.html,<Other>,<Other>,<Other>,India,mobile,Web,es-es
+2021-01-05 08:17:58.971412 UTC,987519183,1006764.2593478041+987519183,view_item,Google+Redesign/Apparel/Google+Infant+Hero+Onesie+Grey,<Other>,<Other>,<Other>,India,mobile,Web,es-es
+2021-01-05 08:17:45.174784 UTC,987519183,1006764.2593478041+987519183,view_item,Google+Redesign/Apparel/Stan+and+Friends+Onesie+Green,<Other>,<Other>,<Other>,India,mobile,Web,es-es
+2021-01-05 08:17:38.566145 UTC,987519183,1006764.2593478041+987519183,view_item,store.html,<Other>,<Other>,<Other>,India,mobile,Web,es-es
+2021-01-05 08:17:19.676204 UTC,987519183,1006764.2593478041+987519183,session_start,,<Other>,<Other>,<Other>,India,mobile,Web,es-es
+2021-01-07 13:26:44.318718 UTC,4033460288,10067654.0259274747+4033460288,session_start,Google+Redesign/Apparel,<Other>,<Other>,<Other>,Slovenia,desktop,Web,es-es
+2020-11-03 02:52:45.962526 UTC,9849176250,1006815.6585871762+9849176250,session_start,,google,organic,(organic),United States,desktop,Windows,en-us
+2020-12-29 10:40:22.392973 UTC,552433203,1006846.2318552285+552433203,session_start,Google+Redesign/Apparel,<Other>,referral,(referral),United States,desktop,Web,fr
+2020-12-31 05:03:09.035922 UTC,449305954,10068625.1216884665+449305954,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,shop.googlemerchandisestore.com,referral,(referral),United States,desktop,Web,
+2021-01-23 01:00:38.728928 UTC,5194446743,10069010.8037829142+5194446743,session_start,,(direct),(none),(direct),United States,desktop,Web,en-us
+2020-12-18 23:13:45.106492 UTC,4456727808,10069266.3666492025+4456727808,view_item,Google+Redesign/Bags/Google+Incognito+Messenger+Bag,google,organic,(organic),United States,desktop,Web,en-us
+2020-12-18 23:13:39.653124 UTC,4456727808,10069266.3666492025+4456727808,session_start,Google+Redesign/Bags/Google+Incognito+Messenger+Bag,google,organic,(organic),United States,desktop,Web,en-us
+2020-11-30 15:39:16.418247 UTC,2309632721,1007031.4380141356+2309632721,session_start,,shop.googlemerchandisestore.com,referral,(referral),United States,desktop,Web,
+2020-11-30 12:53:06.212897 UTC,5518506343,1007089.9044309324+5518506343,session_start,,(direct),(none),(direct),Portugal,desktop,Web,en-us
+2020-11-21 02:19:12.872807 UTC,6868240648,1007109911.1609902602+6868240648,session_start,Google+Redesign/Apparel/Google+Cotopaxi+Shell,<Other>,<Other>,<Other>,Canada,mobile,iOS,en-us
+2020-11-08 15:53:27.057530 UTC,7657138858,1007153.5336129123+7657138858,session_start,,<Other>,<Other>,<Other>,United Kingdom,tablet,iOS,en-us
+2020-12-08 18:38:30.762133 UTC,7732283325,1007164.3069940596+7732283325,session_start,,google,organic,(organic),China,desktop,Web,zh
+2020-12-08 22:35:05.456453 UTC,7945077233,1007164.3069940596+7945077233,session_start,,google,organic,(organic),China,desktop,Web,zh
+2020-12-22 09:22:11.688449 UTC,2900019953,10072324.1672857579+2900019953,session_start,,(data deleted),(data deleted),(data deleted),Trinidad & Tobago,desktop,Windows,
+2020-12-22 09:25:33.993721 UTC,2900019953,10072324.1672857579+2900019953,view_item,Google+Redesign/Apparel/Mens,(data deleted),(data deleted),(data deleted),Trinidad & Tobago,desktop,Windows,
+2020-11-23 13:25:55.477657 UTC,8718412163,10072324.1672857579+8718412163,session_start,,google,cpc,<Other>,Trinidad & Tobago,mobile,Web,
+2021-01-09 21:23:25.416184 UTC,8518020590,10072452.8809780250+8518020590,session_start,Google+Redesign/Apparel,<Other>,<Other>,<Other>,Canada,desktop,Windows,de
+2021-01-11 02:15:59.066950 UTC,7463201243,1007278682.5642840230+7463201243,session_start,Google+Redesign/Apparel,<Other>,organic,(organic),United States,desktop,Web,en-gb
+2020-12-26 19:19:27.377184 UTC,4277559629,10072858.6095015875+4277559629,session_start,Google+Redesign/Apparel,google,organic,(organic),Latvia,desktop,Windows,en-us
+2020-12-19 07:56:18.392278 UTC,7610407615,10073280.8789119097+7610407615,session_start,Google+Redesign/Apparel/Google+Dino+Game+Tee,<Other>,<Other>,<Other>,Taiwan,desktop,Web,en-us
+2020-11-28 09:26:20.229241 UTC,4389558959,1007492.7455882110+4389558959,view_item,Google+Redesign/Apparel/Mens,(data deleted),(data deleted),(data deleted),India,desktop,Web,
+2020-11-28 09:26:56.222521 UTC,4389558959,1007492.7455882110+4389558959,view_item,Google+Redesign/Apparel/Mens,(data deleted),(data deleted),(data deleted),India,desktop,Web,
+2020-11-28 09:26:12.065584 UTC,4389558959,1007492.7455882110+4389558959,view_item,Google+Redesign/Apparel/Mens,(data deleted),(data deleted),(data deleted),India,desktop,Web,
+2020-11-28 09:26:30.200869 UTC,4389558959,1007492.7455882110+4389558959,view_item,Google+Redesign/Apparel/Mens,(data deleted),(data deleted),(data deleted),India,desktop,Web,
+2020-11-28 09:27:07.537888 UTC,4389558959,1007492.7455882110+4389558959,view_item,Google+Redesign/Apparel/Mens,(data deleted),(data deleted),(data deleted),India,desktop,Web,
+2020-11-28 09:26:42.438174 UTC,4389558959,1007492.7455882110+4389558959,view_item,Google+Redesign/Apparel/Mens,(data deleted),(data deleted),(data deleted),India,desktop,Web,
+2020-11-28 09:25:27.604189 UTC,4389558959,1007492.7455882110+4389558959,session_start,,(data deleted),(data deleted),(data deleted),India,desktop,Web,
+2020-11-28 09:28:03.726622 UTC,4389558959,1007492.7455882110+4389558959,view_item,Google+Redesign/Apparel/Google+FC+Longsleeve+Ash,(data deleted),(data deleted),(data deleted),India,desktop,Web,
+2020-11-28 09:26:05.224650 UTC,4389558959,1007492.7455882110+4389558959,view_item,Google+Redesign/Apparel/Mens,(data deleted),(data deleted),(data deleted),India,desktop,Web,
+2020-11-26 23:01:30.736936 UTC,5039716222,1007492.7455882110+5039716222,session_start,,<Other>,<Other>,<Other>,India,desktop,Web,
+2020-12-16 02:15:24.670435 UTC,1013975708,1007514.4535097902+1013975708,session_start,Google+Redesign/Drinkware/Water+Bottles,(direct),(none),(direct),Israel,desktop,Web,en-us
+2021-01-21 11:11:34.642360 UTC,9319357125,10075369.3743315216+9319357125,session_start,Google+Redesign/Stationery/Stickers,google,organic,(organic),United States,desktop,Windows,en-us
+2020-11-29 10:15:52.659666 UTC,5170656199,10076354.1924185783+5170656199,view_item,Google+Redesign/Shop+by+Brand/YouTube,google,organic,(organic),United States,desktop,Windows,
+2020-11-29 10:13:40.421505 UTC,5170656199,10076354.1924185783+5170656199,view_item,Google+Redesign/Shop+by+Brand/YouTube,google,organic,(organic),United States,desktop,Windows,
+2020-11-29 10:13:07.569647 UTC,5170656199,10076354.1924185783+5170656199,session_start,Google+Redesign/Shop+by+Brand/YouTube,google,organic,(organic),United States,desktop,Windows,
+2021-01-08 19:44:03.877220 UTC,138004445,1007650.3868206571+138004445,session_start,Google+Redesign/Apparel,google,organic,(organic),United States,desktop,Web,en-us
+2020-11-23 10:12:00.622045 UTC,1687603567,10076512.5366629859+1687603567,view_item,Google+Redesign/Clearance,google,organic,(organic),United States,desktop,Windows,fr
+2020-11-23 10:10:50.910211 UTC,1687603567,10076512.5366629859+1687603567,session_start,,google,organic,(organic),United States,desktop,Windows,fr
+2020-11-23 22:47:32.000483 UTC,7293088117,10076512.5366629859+7293088117,session_start,Google+Redesign/Apparel/Kids,shop.googlemerchandisestore.com,referral,(referral),United States,desktop,Windows,fr
+2021-01-17 12:42:18.567739 UTC,3629340206,10077132.9354365192+3629340206,session_start,Google+Redesign/Apparel,google,organic,(organic),United States,mobile,Web,en-us
+2020-12-13 16:19:35.572317 UTC,9538068780,1007743703.5777976718+9538068780,session_start,,<Other>,organic,(organic),Canada,mobile,iOS,
+2021-01-17 15:17:43.775095 UTC,8480289037,1007746.0002291639+8480289037,session_start,,(direct),(none),(direct),South Korea,desktop,Windows,en-gb
+2021-01-30 13:50:40.932699 UTC,718469588,1007759.8510021299+718469588,session_start,Google+Redesign/Apparel/Mens/Mens+T+Shirts,google,cpc,<Other>,United States,desktop,Windows,en-us
+2021-01-30 13:51:29.906597 UTC,718469588,1007759.8510021299+718469588,view_item,Google+Redesign/Lifestyle/Drinkware,google,cpc,<Other>,United States,desktop,Windows,en-us
