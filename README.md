@@ -410,6 +410,34 @@ MAX([Count_Unique_Events]) / WINDOW_MAX(MAX([Count_Unique_Events]))
 Note: Using WINDOW_MAX enables a dynamic comparison of each funnel step against the baseline (100%), maintaining accuracy regardless of the filters applied to the view.
 </details>
 
+<details>
+<summary><b>Dynamic Session-Level Time-to-Conversion Logic</b>.</summary>
+This set of calculations measures the precise duration between any two user-defined events within a single session. It enables a granular analysis of user journey speed and identifies bottlenecks in the conversion process.
+
+* Event Timestamp Isolation - captures the exact datetime for events selected via parameters.  
+  Time_of_first_event; Time_of_second_event:
+```sql
+IF [event_name] = [Select_first_event] THEN [Event_Datetime] END
+IF [event_name] = [Select_second_event] THEN [Event_Datetime] END
+```
+
+* Session-Level Fixed Latency - utilizes FIXED LOD expressions to anchor the earliest occurrence of each event to the specific `user_session_id`.  
+  Time_min_first_event; Time_min_second_event : 
+```sql
+{FIXED [user_session_id] : MIN([Time_of_first_event])}
+{FIXED [user_session_id] : MIN([Time_of_second_event])}
+```
+
+* Time-to-Conversion (Seconds) - Calculates the integer difference in seconds between the two milestones, ensuring the chronological sequence is maintained.  
+  Time-to-Conversion:
+```sql
+INT({FIXED [user_session_id] : MIN(
+    IF [Time_min_first_event] <= [Time_min_second_event] THEN
+DATEDIFF('second', [Time_min_first_event], [Time_min_second_event]) END)})
+```
+Note: By using LOD expressions, this logic remains accurate even when the view is filtered by other dimensions, providing a stable foundation for calculating "Average Time to Purchase" across different countries or traffic sources.
+</details>
+
 ## Feedback and Collaboration 🙌
 
 If you have any feedback regarding the data modeling, DAX formulas, or visualization choices, please open an issue or reach out to me directly. I'm also open to collaboration and welcome any contributions that could enhance the report's functionalities!
