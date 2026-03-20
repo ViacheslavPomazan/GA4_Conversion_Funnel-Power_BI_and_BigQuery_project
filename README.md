@@ -2,7 +2,6 @@
 
 ## Project Overview
 The core of this project is a comprehensive study of e-commerce conversion using raw GA4 data from BigQuery. The primary goal is to visualize and analyze the complete user journey — from `session_start` to the final `purchase` — through key stages including `view_item`, `add_to_cart`, `begin_checkout`, `add_shipping_info`, and `add_payment_info`.
-
 By transforming 4M+ rows of raw events into actionable insights, the project tracks both quantitative and time-based funnel metrics to identify where customers drop off and how different user segments behave. To demonstrate cross-platform expertise, the final visualization was developed in two versions: a Power BI Report and a Tableau Dashboard.
 
 ## Key Objectives: 🎯
@@ -396,11 +395,19 @@ plt.show()
 ## Tableau Highlights: ⭐
 
 <details>
-<summary>Calculating the unique session count for every combination of event and selected parameter.</summary>
+<summary><b>Dynamic Multi-Segment Funnel Conversion</b>.</summary>
+This combination of formulas calculates the conversion rate for each funnel step relative to the initial event, ensuring full flexibility when switching between different data segments.
 
+* Unique Sessions per Segment:
+```sql
+{FIXED [event_name], [Segment Selector]: COUNTD([user_session_id])}
 ```
-{FIXED [event_name], [Dimension Selector]: COUNTD([user_session_id])}
+
+* Conversion Rate (Funnel Step %):
+```sql
+MAX([Count_Unique_Events]) / WINDOW_MAX(MAX([Count_Unique_Events]))
 ```
+Note: Using WINDOW_MAX enables a dynamic comparison of each funnel step against the baseline (100%), maintaining accuracy regardless of the filters applied to the view.
 </details>
 
 ## Feedback and Collaboration 🙌
